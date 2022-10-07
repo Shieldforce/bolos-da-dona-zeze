@@ -46,3 +46,86 @@
 
    ERROR  Command "horizon" is not defined.  
 
+
+   Error 
+
+  Class "Redis" not found
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:81
+     77▕      * @throws \LogicException
+     78▕      */
+     79▕     protected function createClient(array $config)
+     80▕     {
+  ➜  81▕         return tap(new Redis, function ($client) use ($config) {
+     82▕             if ($client instanceof RedisFacade) {
+     83▕                 throw new LogicException(
+     84▕                     extension_loaded('redis')
+     85▕                         ? 'Please remove or rename the Redis facade alias in your "app" configuration file in order to avoid collision with the PHP Redis extension.'
+
+      [2m+21 vendor frames [22m
+  22  /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   Error 
+
+  Class "Redis" not found
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:81
+     77▕      * @throws \LogicException
+     78▕      */
+     79▕     protected function createClient(array $config)
+     80▕     {
+  ➜  81▕         return tap(new Redis, function ($client) use ($config) {
+     82▕             if ($client instanceof RedisFacade) {
+     83▕                 throw new LogicException(
+     84▕                     extension_loaded('redis')
+     85▕                         ? 'Please remove or rename the Redis facade alias in your "app" configuration file in order to avoid collision with the PHP Redis extension.'
+
+      [2m+21 vendor frames [22m
+  22  /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   Error 
+
+  Class "Redis" not found
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:81
+     77▕      * @throws \LogicException
+     78▕      */
+     79▕     protected function createClient(array $config)
+     80▕     {
+  ➜  81▕         return tap(new Redis, function ($client) use ($config) {
+     82▕             if ($client instanceof RedisFacade) {
+     83▕                 throw new LogicException(
+     84▕                     extension_loaded('redis')
+     85▕                         ? 'Please remove or rename the Redis facade alias in your "app" configuration file in order to avoid collision with the PHP Redis extension.'
+
+      [2m+21 vendor frames [22m
+  22  /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   Error 
+
+  Class "Redis" not found
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:81
+     77▕      * @throws \LogicException
+     78▕      */
+     79▕     protected function createClient(array $config)
+     80▕     {
+  ➜  81▕         return tap(new Redis, function ($client) use ($config) {
+     82▕             if ($client instanceof RedisFacade) {
+     83▕                 throw new LogicException(
+     84▕                     extension_loaded('redis')
+     85▕                         ? 'Please remove or rename the Redis facade alias in your "app" configuration file in order to avoid collision with the PHP Redis extension.'
+
+      [2m+21 vendor frames [22m
+  22  /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+Horizon started successfully.
+
+   INFO  Processing jobs from the [default] queue.  
+
+
+   INFO  Processing jobs from the [default] queue.  
+
