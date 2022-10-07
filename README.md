@@ -70,3 +70,9 @@ sudo supervisorctl start bolos-da-dona-zeze
 ```
 $: php artisan serve
 ```
+
+### Usuário de teste:
+```
+email: user@bdz.com
+password: 1234
+```
