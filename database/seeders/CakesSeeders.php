@@ -22,13 +22,13 @@ class CakesSeeders extends Seeder
                 'name'              => "Bolo de Chocolate",
                 'weight'            => 2.300,
                 'value'             => 80.00,
-                'stock.amount'      => 35,
+                'stock.amount'      => 0,
             ],
             [
                 'name'              => "Bolo de Abacate",
                 'weight'            => 0.900,
                 'value'             => 25.00,
-                'stock.amount'      => 90,
+                'stock.amount'      => 0,
             ],
         ];
 
