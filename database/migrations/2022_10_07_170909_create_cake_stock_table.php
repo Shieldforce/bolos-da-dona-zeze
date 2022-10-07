@@ -13,12 +13,16 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('cakes', function (Blueprint $table) {
+        Schema::create('cake_stock', function (Blueprint $table) {
             $table->id();
 
-            $table->string("name");
-            $table->decimal("weight", 6, 3);
-            $table->decimal("value", 12, 2);
+            $table->unsignedBigInteger("cake_id");
+            $table->foreign("cake_id")
+                ->references("id")
+                ->on("cakes")
+                ->onDelete("cascade");
+
+            $table->integer("amount");
 
             $table->timestamps();
         });
@@ -31,6 +35,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('cakes');
+        Schema::dropIfExists('cake_stock');
     }
 };

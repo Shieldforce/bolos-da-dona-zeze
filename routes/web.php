@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return redirect("Postman");
+    return redirect("https://documenter.getpostman.com/view/3645910/2s83zgu57V");
 });
 
 Route::middleware(["ApiProtectedRouteJWT"])->name("panel.")->group(function(){
