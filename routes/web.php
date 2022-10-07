@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,5 +15,13 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect("Postman");
+});
+
+Route::middleware(["ApiProtectedRouteJWT"])->name("panel.")->group(function(){
+
+    foreach (File::allFiles(__DIR__ . '/web') as $route_file) {
+        require $route_file->getPathname();
+    }
+
 });

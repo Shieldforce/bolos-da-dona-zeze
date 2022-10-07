@@ -1,6 +1,8 @@
 <?php
 
-use Illuminate\Http\Request;
+use App\Http\Controllers\Api\AuthController;
+use App\Http\Controllers\Api\UsersController;
+use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,6 +16,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-    return $request->user();
+Route::post("auth/login", [ AuthController::class, "login" ])->name("auth.login");
+
+Route::middleware(["ApiProtectedRouteJWT"])->name("api.")->group(function(){
+
+    foreach (File::allFiles(__DIR__ . '/api') as $route_file) {
+        require $route_file->getPathname();
+    }
+
 });

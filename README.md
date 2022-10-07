@@ -17,6 +17,16 @@ $: cp .env.example .env
 $: php artisan migrate: fresh --seed
 ```
 
+### Liberar acesso de leitura para algumas pastas:
+```
+$: sudo chmod -R 755 public/ storage/ bootstrap/
+```
+
+### Liberar acesso de gravação para storage/logs:
+```
+$: sudo chmod -R 777  storage/logs/
+```
+
 ### Requisitos e Configurações para rodar o projeto (Servidor de aplicação ‘web’ deverá ser um linux:
 - PHP 8.1 >=
 - Composer >= 2
