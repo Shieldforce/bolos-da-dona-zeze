@@ -129,3 +129,286 @@ Horizon started successfully.
 
    INFO  Processing jobs from the [default] queue.  
 
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   RuntimeException 
+
+  Unable to detect application namespace.
+
+  at /home/alexandrefn/dockers/bolos-da-dona-zeze/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:1429
+    1425▕                 }
+    1426▕             }
+    1427▕         }
+    1428▕ 
+  ➜ 1429▕         throw new RuntimeException('Unable to detect application namespace.');
+    1430▕     }
+    1431▕ }
+    1432▕
+
+      [2m+1 vendor frames [22m
+  2   /home/alexandrefn/dockers/bolos-da-dona-zeze/app/Console/Kernel.php:17
+      Illuminate\Foundation\Console\Kernel::load()
+
+      [2m+2 vendor frames [22m
+  5   /home/alexandrefn/dockers/bolos-da-dona-zeze/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+Horizon started successfully.
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-07 19:32:26 App\Jobs\JobSendMailCakes ................. 12.79ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-07 19:32:26 App\Jobs\JobSendMailCakes ................. 13.77ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-07 19:32:26 App\Jobs\JobSendMailCakes ................. 13.26ms DONE
+  2022-10-07 19:33:02 App\Jobs\JobSendMailCakes .................. 1.38ms DONE
+  2022-10-07 19:33:02 App\Jobs\JobSendMailCakes .................. 0.94ms DONE
+  2022-10-07 19:33:02 App\Jobs\JobSendMailCakes .................. 1.12ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+

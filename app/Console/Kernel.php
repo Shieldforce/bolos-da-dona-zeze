@@ -9,7 +9,7 @@ class Kernel extends ConsoleKernel
 {
     protected function schedule(Schedule $schedule)
     {
-        $schedule->command('command:StartJobsSendCakesToInterested')->everyTwoHours();
+        $schedule->command('command:StartJobsSendCakesToInterested')->everyMinute();
     }
 
     protected function commands()
