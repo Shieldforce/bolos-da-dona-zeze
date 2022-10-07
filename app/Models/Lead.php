@@ -6,19 +6,19 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Customer extends Model
+class Lead extends Model
 {
     protected $fillable = [
         "email"
     ];
 
-    public function cakes_i_like()
+    public function cakesILike()
     {
         return $this->belongsToMany(
-            Customer::class,
+            Cake::class,
             "interested_in_cakes",
-            "customer_id",
+            "lead_id",
             "cake_id",
-        )->withPivot(["id", "customer_id","cake_id",]);
+        )->withPivot(["id", "lead_id","cake_id",]);
     }
 }

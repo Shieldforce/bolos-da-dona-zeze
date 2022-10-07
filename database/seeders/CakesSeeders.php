@@ -28,7 +28,7 @@ class CakesSeeders extends Seeder
                 'name'              => "Bolo de Abacate",
                 'weight'            => 0.900,
                 'value'             => 25.00,
-                'stock.amount'      => 0,
+                'stock.amount'      => 15,
             ],
         ];
 

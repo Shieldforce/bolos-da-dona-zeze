@@ -17,10 +17,10 @@ return new class extends Migration
             $table->id();
 
 
-            $table->unsignedBigInteger("customer_id");
-            $table->foreign("customer_id")
+            $table->unsignedBigInteger("lead_id");
+            $table->foreign("lead_id")
                 ->references("id")
-                ->on("customers")
+                ->on("leads")
                 ->onDelete("cascade");
 
             $table->unsignedBigInteger("cake_id");

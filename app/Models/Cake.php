@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace App\Models;
 
-use App\Observers\Cake\CakeStockObserver;
 use Illuminate\Database\Eloquent\Model;
 
 class Cake extends Model
@@ -18,11 +17,11 @@ class Cake extends Model
     public function interested()
     {
         return $this->belongsToMany(
-            Customer::class,
+            Lead::class,
             "interested_in_cakes",
             "cake_id",
-            "customer_id",
-        )->withPivot(["id", "cake_id","customer_id",]);
+            "lead_id",
+        )->withPivot(["id", "cake_id","lead_id",]);
     }
 
     public function stock()

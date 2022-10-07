@@ -2,6 +2,8 @@
 
 ### Link da documentação no postman (https://documenter.getpostman.com/view/3645910/2s83zgu57V)
 
+### Acesso as filas Horizon (http://localhost:8000/horizon)
+
 ---
 
 ### Clonar o projeto:
@@ -67,6 +69,12 @@ sudo supervisorctl update
 sudo supervisorctl start bolos-da-dona-zeze
 ```
 ---
+
+### Abra o arquivo do crontab e configure desse jeito (Exemplo usado no Ubuntu 22.04 Server):
+```
+$: crontab -e
+$: * * * * * cd /var/www/html/$(path_project) && php artisan schedule:run >> /dev/null 2>&1
+```
 
 ### Rodando Servidor:
 ```

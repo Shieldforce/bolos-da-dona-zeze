@@ -3,11 +3,11 @@
 namespace App\Providers;
 
 use App\Events\Cake\CakeStockEvent;
+use App\Listeners\Cake\CreateCakeInterestedListener;
 use App\Listeners\Cake\CreateCakeStockListener;
 use Illuminate\Auth\Events\Registered;
 use Illuminate\Auth\Listeners\SendEmailVerificationNotification;
 use Illuminate\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
-use Illuminate\Support\Facades\Event;
 
 class EventServiceProvider extends ServiceProvider
 {
@@ -16,7 +16,8 @@ class EventServiceProvider extends ServiceProvider
             SendEmailVerificationNotification::class,
         ],
         CakeStockEvent::class => [
-            CreateCakeStockListener::class
+            CreateCakeStockListener::class,
+            CreateCakeInterestedListener::class,
         ]
     ];
 
