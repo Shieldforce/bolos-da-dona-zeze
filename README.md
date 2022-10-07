@@ -21,6 +21,8 @@ $: php artisan migrate: fresh --seed
 - PHP 8.1 >=
 - Composer >= 2
 - Supervisor
+- Mysql 8 >=
+- Redis
 
 ### Configuração do Supervisor (Este exemplo usa ubuntu 22.04 server como exemplo)
 
