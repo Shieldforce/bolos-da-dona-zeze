@@ -4,12 +4,12 @@ namespace App\Http\Middleware;
 
 use App\Response\Error;
 use Closure;
+use Illuminate\Http\Request;
 use Tymon\JWTAuth\Facades\JWTAuth;
-use Tymon\JWTAuth\Http\Middleware\BaseMiddleware;
 
-class apiProtectedRoute extends BaseMiddleware
+class ApiProtectedRouteJWT
 {
-    public function handle($request, Closure $next)
+    public function handle(Request $request, Closure $next)
     {
         try
         {
