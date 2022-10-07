@@ -65,3 +65,8 @@ sudo supervisorctl update
 sudo supervisorctl start bolos-da-dona-zeze
 ```
 ---
+
+### Rodando Servidor:
+```
+$: php artisan serve
+```
