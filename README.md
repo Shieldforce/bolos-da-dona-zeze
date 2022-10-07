@@ -27,6 +27,11 @@ $: sudo chmod -R 755 public/ storage/ bootstrap/
 $: sudo chmod -R 777  storage/logs/
 ```
 
+### Geração da secret do JWT:
+```
+$: php artisan jwt:secret
+```
+
 ### Requisitos e Configurações para rodar o projeto (Servidor de aplicação ‘web’ deverá ser um linux:
 - PHP 8.1 >=
 - Composer >= 2
