@@ -1,3 +1,10 @@
+### Requisitos e Configurações para rodar o projeto (Servidor de aplicação ‘web’ deverá ser um linux:
+- PHP 8.1 >=
+- Composer >= 2
+- Supervisor
+- Mysql 8 >=
+- Redis
+
 ## Como implementar o projeto!
 
 ### Link da documentação no postman (https://documenter.getpostman.com/view/3645910/2s83zgu57V)
@@ -35,13 +42,6 @@ $: sudo chmod -R 777  storage/logs/
 ```
 $: php artisan jwt:secret
 ```
-
-### Requisitos e Configurações para rodar o projeto (Servidor de aplicação ‘web’ deverá ser um linux:
-- PHP 8.1 >=
-- Composer >= 2
-- Supervisor
-- Mysql 8 >=
-- Redis
 
 ### Configuração do Supervisor (Este exemplo usa ubuntu 22.04 server como exemplo)
 

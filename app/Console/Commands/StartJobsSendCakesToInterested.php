@@ -2,9 +2,10 @@
 
 namespace App\Console\Commands;
 
-use App\Jobs\JobSendMailCakes;
-use App\Models\Cake;
+use App\Mail\SendCakesToInterestedMail;
+use App\Models\InterestedInCakes;
 use Illuminate\Console\Command;
+use Illuminate\Support\Facades\Mail;
 
 class StartJobsSendCakesToInterested extends Command
 {
@@ -20,19 +21,10 @@ class StartJobsSendCakesToInterested extends Command
 
     public function handle()
     {
-
-        $cakesWithPositeStock = Cake::whereHas("stock", function ($stock) {
-            $stock->where("amount", ">", 0);
-        })->with("interested")->get();
-
-        foreach ($cakesWithPositeStock as $cake) {
-
-            foreach ($cake->interested as $lead) {
-                JobSendMailCakes::dispatch($lead);
-            }
-
+        $InterestedInCakes = InterestedInCakes::distinct()->get();
+        foreach ($InterestedInCakes as $interestedInCake) {
+            Mail::send(new SendCakesToInterestedMail($interestedInCake->lead));
         }
-
         return true;
     }
 }
