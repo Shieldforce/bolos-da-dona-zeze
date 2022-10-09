@@ -1140,3 +1140,1526 @@ Horizon started successfully.
    INFO  Processing jobs from the [default] queue.  
 
   2022-10-07 21:44:03 App\Mail\SendCakesToInterestedMail ........ 22.39ms FAIL
+Horizon started successfully.
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:03:03 App\Mail\SendCakesToInterestedMail ........ 54.47ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:03:03 App\Mail\SendCakesToInterestedMail ........ 54.48ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:04:02 App\Mail\SendCakesToInterestedMail ..... 2,799.98ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:04:04 App\Mail\SendCakesToInterestedMail ..... 2,661.91ms DONE
+  2022-10-08 14:05:03 App\Mail\SendCakesToInterestedMail ........ 13.57ms FAIL
+  2022-10-08 14:05:03 App\Mail\SendCakesToInterestedMail ..... 2,688.54ms DONE
+  2022-10-08 14:06:03 App\Mail\SendCakesToInterestedMail ........ 11.28ms FAIL
+  2022-10-08 14:06:03 App\Mail\SendCakesToInterestedMail ..... 2,369.86ms DONE
+  2022-10-08 14:07:02 App\Mail\SendCakesToInterestedMail ........ 11.51ms FAIL
+  2022-10-08 14:07:03 App\Mail\SendCakesToInterestedMail ..... 2,512.49ms DONE
+  2022-10-08 14:08:02 App\Mail\SendCakesToInterestedMail ........ 11.52ms FAIL
+  2022-10-08 14:08:02 App\Mail\SendCakesToInterestedMail ..... 2,605.11ms DONE
+  2022-10-08 14:09:02 App\Mail\SendCakesToInterestedMail ........ 11.66ms FAIL
+  2022-10-08 14:09:02 App\Mail\SendCakesToInterestedMail ..... 2,558.54ms DONE
+  2022-10-08 14:10:04 App\Mail\SendCakesToInterestedMail ......... 2.97ms FAIL
+  2022-10-08 14:10:04 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+ ..... 2,599.82ms DONE
+  2022-10-08 14:11:01 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:11:02 App\Mail\SendCakesToInterestedMail ..... 2,546.60ms DONE
+ ..... 2,680.52ms DONE
+  2022-10-08 14:12:01 App\Mail\SendCakesToInterestedMail ......... 3.28ms FAIL
+  2022-10-08 14:12:01 App\Mail\SendCakesToInterestedMail ..... 2,647.47ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:13:02 App\Mail\SendCakesToInterestedMail  2022-10-08 14:13:04 App\Mail\SendCakesToInterestedMail ........ 11.51ms FAIL
+ ..... 2,573.27ms DONE
+  2022-10-08 14:14:02 App\Mail\SendCakesToInterestedMail ........ 13.41ms FAIL
+  2022-10-08 14:14:02 App\Mail\SendCakesToInterestedMail ..... 2,384.98ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:15:02 App\Mail\SendCakesToInterestedMail  2022-10-08 14:15:04 App\Mail\SendCakesToInterestedMail ........ 11.51ms FAIL
+ ..... 2,692.83ms DONE
+  2022-10-08 14:16:02 App\Mail\SendCakesToInterestedMail ........ 13.14ms FAIL
+  2022-10-08 14:16:02 App\Mail\SendCakesToInterestedMail ..... 2,695.98ms DONE
+  2022-10-08 14:17:02 App\Mail\SendCakesToInterestedMail ......... 3.26ms FAIL
+  2022-10-08 14:17:02 App\Mail\SendCakesToInterestedMail ..... 2,496.89ms DONE
+  2022-10-08 14:18:01 App\Mail\SendCakesToInterestedMail ........ 11.44ms FAIL
+  2022-10-08 14:18:01 App\Mail\SendCakesToInterestedMail ..... 2,485.06ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:19:03 App\Mail\SendCakesToInterestedMail  2022-10-08 14:19:04 App\Mail\SendCakesToInterestedMail ......... 4.61ms FAIL
+ ..... 2,645.42ms DONE
+  2022-10-08 14:20:02 App\Mail\SendCakesToInterestedMail ........ 13.31ms FAIL
+  2022-10-08 14:20:03 App\Mail\SendCakesToInterestedMail ..... 2,596.31ms DONE
+  2022-10-08 14:21:02 App\Mail\SendCakesToInterestedMail ........ 11.34ms FAIL
+  2022-10-08 14:21:02 App\Mail\SendCakesToInterestedMail ..... 2,475.90ms DONE
+  2022-10-08 14:22:02 App\Mail\SendCakesToInterestedMail ........ 11.36ms FAIL
+  2022-10-08 14:22:02 App\Mail\SendCakesToInterestedMail ..... 2,699.04ms DONE
+  2022-10-08 14:23:01 App\Mail\SendCakesToInterestedMail ........ 11.32ms FAIL
+  2022-10-08 14:23:02 App\Mail\SendCakesToInterestedMail ..... 2,584.20ms DONE
+  2022-10-08 14:24:04 App\Mail\SendCakesToInterestedMail ........ 11.38ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:24:04 App\Mail\SendCakesToInterestedMail ..... 2,663.06ms DONE
+  2022-10-08 14:25:03 App\Mail\SendCakesToInterestedMail ........ 13.32ms FAIL
+  2022-10-08 14:25:03 App\Mail\SendCakesToInterestedMail ..... 2,415.35ms DONE
+  2022-10-08 14:26:03 App\Mail\SendCakesToInterestedMail ........ 11.34ms FAIL
+  2022-10-08 14:26:03 App\Mail\SendCakesToInterestedMail ..... 2,614.97ms DONE
+  2022-10-08 14:27:02 App\Mail\SendCakesToInterestedMail ........ 11.43ms FAIL
+  2022-10-08 14:27:02 App\Mail\SendCakesToInterestedMail ..... 2,337.16ms DONE
+  2022-10-08 14:28:02 App\Mail\SendCakesToInterestedMail ........ 11.14ms FAIL
+  2022-10-08 14:28:02 App\Mail\SendCakesToInterestedMail ..... 2,611.45ms DONE
+  2022-10-08 14:29:02 App\Mail\SendCakesToInterestedMail ......... 3.18ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:29:01 App\Mail\SendCakesToInterestedMail ..... 2,624.25ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:30:02 App\Mail\SendCakesToInterestedMail  2022-10-08 14:30:04 App\Mail\SendCakesToInterestedMail ........ 13.32ms FAIL
+ ..... 2,509.23ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:31:02 App\Mail\SendCakesToInterestedMail  2022-10-08 14:31:04 App\Mail\SendCakesToInterestedMail ........ 13.41ms FAIL
+ ..... 2,520.32ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:32:02 App\Mail\SendCakesToInterestedMail  2022-10-08 14:32:04 App\Mail\SendCakesToInterestedMail ........ 13.35ms FAIL
+ ..... 2,560.20ms DONE
+  2022-10-08 14:33:01 App\Mail\SendCakesToInterestedMail ........ 13.41ms FAIL
+  2022-10-08 14:33:01 App\Mail\SendCakesToInterestedMail ..... 2,482.10ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:34:02 App\Mail\SendCakesToInterestedMail  2022-10-08 14:34:04 App\Mail\SendCakesToInterestedMail ........ 11.58ms FAIL
+ ..... 2,589.10ms DONE
+  2022-10-08 14:35:02 App\Mail\SendCakesToInterestedMail ........ 13.02ms FAIL
+  2022-10-08 14:35:02 App\Mail\SendCakesToInterestedMail ..... 2,630.49ms DONE
+  2022-10-08 14:36:01 App\Mail\SendCakesToInterestedMail ........ 11.28ms FAIL
+  2022-10-08 14:36:01 App\Mail\SendCakesToInterestedMail ..... 2,673.94ms DONE
+  2022-10-08 14:37:01 App\Mail\SendCakesToInterestedMail ........ 11.43ms FAIL
+  2022-10-08 14:37:01 App\Mail\SendCakesToInterestedMail ..... 2,632.27ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:38:03 App\Mail\SendCakesToInterestedMail  2022-10-08 14:38:04 App\Mail\SendCakesToInterestedMail ........ 11.35ms FAIL
+ ..... 2,560.33ms DONE
+  2022-10-08 14:39:02 App\Mail\SendCakesToInterestedMail ........ 14.05ms FAIL
+  2022-10-08 14:39:02 App\Mail\SendCakesToInterestedMail ..... 2,564.10ms DONE
+  2022-10-08 14:40:02 App\Mail\SendCakesToInterestedMail ......... 6.81ms FAIL
+  2022-10-08 14:40:02 App\Mail\SendCakesToInterestedMail ..... 2,573.45ms DONE
+  2022-10-08 14:41:02 App\Mail\SendCakesToInterestedMail ......... 6.64ms FAIL
+  2022-10-08 14:41:02 App\Mail\SendCakesToInterestedMail ..... 2,650.76ms DONE
+  2022-10-08 14:42:01 App\Mail\SendCakesToInterestedMail ......... 2.69ms FAIL
+  2022-10-08 14:42:01 App\Mail\SendCakesToInterestedMail ..... 2,649.13ms DONE
+  2022-10-08 14:43:04 App\Mail\SendCakesToInterestedMail ........ 11.31ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:43:04 App\Mail\SendCakesToInterestedMail ..... 2,353.24ms DONE
+  2022-10-08 14:44:03 App\Mail\SendCakesToInterestedMail ........ 13.45ms FAIL
+  2022-10-08 14:44:03 App\Mail\SendCakesToInterestedMail ..... 2,673.12ms DONE
+  2022-10-08 14:45:03 App\Mail\SendCakesToInterestedMail ........ 11.81ms FAIL
+  2022-10-08 14:45:03 App\Mail\SendCakesToInterestedMail ..... 2,409.35ms DONE
+  2022-10-08 14:46:02 App\Mail\SendCakesToInterestedMail ........ 11.49ms FAIL
+  2022-10-08 14:46:02 App\Mail\SendCakesToInterestedMail ..... 2,689.74ms DONE
+  2022-10-08 14:47:02 App\Mail\SendCakesToInterestedMail ........ 11.48ms FAIL
+  2022-10-08 14:47:02 App\Mail\SendCakesToInterestedMail ..... 2,531.76ms DONE
+  2022-10-08 14:48:02 App\Mail\SendCakesToInterestedMail ........ 11.36ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:48:01 App\Mail\SendCakesToInterestedMail ..... 2,388.71ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:49:01 App\Mail\SendCakesToInterestedMail  2022-10-08 14:49:04 App\Mail\SendCakesToInterestedMail ........ 13.18ms FAIL
+ ..... 2,522.66ms DONE
+  2022-10-08 14:50:04 App\Mail\SendCakesToInterestedMail ........ 13.25ms FAIL
+  2022-10-08 14:50:04 App\Mail\SendCakesToInterestedMail ..... 2,507.69ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:51:02 App\Mail\SendCakesToInterestedMail  2022-10-08 14:51:04 App\Mail\SendCakesToInterestedMail ........ 11.46ms FAIL
+ ..... 2,584.84ms DONE
+  2022-10-08 14:52:01 App\Mail\SendCakesToInterestedMail ........ 13.41ms FAIL
+  2022-10-08 14:52:01 App\Mail\SendCakesToInterestedMail ..... 2,661.46ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:53:02 App\Mail\SendCakesToInterestedMail  2022-10-08 14:53:04 App\Mail\SendCakesToInterestedMail ........ 11.30ms FAIL
+ ..... 2,564.68ms DONE
+  2022-10-08 14:54:02 App\Mail\SendCakesToInterestedMail ........ 12.79ms FAIL
+  2022-10-08 14:54:02 App\Mail\SendCakesToInterestedMail ..... 2,630.60ms DONE
+  2022-10-08 14:55:01 App\Mail\SendCakesToInterestedMail ........ 11.50ms FAIL
+  2022-10-08 14:55:01 App\Mail\SendCakesToInterestedMail ..... 2,494.98ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 14:56:03 App\Mail\SendCakesToInterestedMail  2022-10-08 14:56:04 App\Mail\SendCakesToInterestedMail ........ 11.47ms FAIL
+ ..... 2,511.60ms DONE
+  2022-10-08 14:57:02 App\Mail\SendCakesToInterestedMail ........ 12.66ms FAIL
+  2022-10-08 14:57:02 App\Mail\SendCakesToInterestedMail ..... 2,544.73ms DONE
+  2022-10-08 14:58:02 App\Mail\SendCakesToInterestedMail ......... 5.54ms FAIL
+  2022-10-08 14:58:02 App\Mail\SendCakesToInterestedMail ..... 2,488.90ms DONE
+  2022-10-08 14:59:01 App\Mail\SendCakesToInterestedMail ........ 11.52ms FAIL
+  2022-10-08 14:59:01 App\Mail\SendCakesToInterestedMail ..... 2,613.60ms DONE
+  2022-10-08 15:00:04 App\Mail\SendCakesToInterestedMail ........ 11.46ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:00:03 App\Mail\SendCakesToInterestedMail ..... 2,659.45ms DONE
+  2022-10-08 15:01:03 App\Mail\SendCakesToInterestedMail ........ 13.28ms FAIL
+  2022-10-08 15:01:03 App\Mail\SendCakesToInterestedMail ..... 2,459.27ms DONE
+  2022-10-08 15:02:02 App\Mail\SendCakesToInterestedMail ........ 11.53ms FAIL
+  2022-10-08 15:02:02 App\Mail\SendCakesToInterestedMail ..... 2,635.19ms DONE
+  2022-10-08 15:03:02 App\Mail\SendCakesToInterestedMail ........ 11.39ms FAIL
+  2022-10-08 15:03:02 App\Mail\SendCakesToInterestedMail ..... 2,376.27ms DONE
+  2022-10-08 15:04:02 App\Mail\SendCakesToInterestedMail ........ 11.48ms FAIL
+  2022-10-08 15:04:02 App\Mail\SendCakesToInterestedMail ..... 2,474.44ms DONE
+  2022-10-08 15:05:04 App\Mail\SendCakesToInterestedMail ........ 11.44ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:05:04 App\Mail\SendCakesToInterestedMail ..... 2,772.44ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:06:01 App\Mail\SendCakesToInterestedMail ..... 2,520.59ms DONE
+  2022-10-08 15:06:04 App\Mail\SendCakesToInterestedMail ....... 798.77ms DONE
+  2022-10-08 15:07:01 App\Mail\SendCakesToInterestedMail ........ 13.30ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:07:01 App\Mail\SendCakesToInterestedMail ..... 2,710.55ms DONE
+  2022-10-08 15:08:04 App\Mail\SendCakesToInterestedMail ........ 13.38ms FAIL
+  2022-10-08 15:08:04 App\Mail\SendCakesToInterestedMail ..... 2,617.22ms DONE
+  2022-10-08 15:09:04 App\Mail\SendCakesToInterestedMail ........ 11.87ms FAIL
+  2022-10-08 15:09:04 App\Mail\SendCakesToInterestedMail ..... 2,402.02ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:10:02 App\Mail\SendCakesToInterestedMail  2022-10-08 15:10:03 App\Mail\SendCakesToInterestedMail ........ 11.95ms FAIL
+ ..... 2,541.65ms DONE
+  2022-10-08 15:11:01 App\Mail\SendCakesToInterestedMail ........ 13.25ms FAIL
+  2022-10-08 15:11:01 App\Mail\SendCakesToInterestedMail ..... 2,473.02ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:12:02 App\Mail\SendCakesToInterestedMail  2022-10-08 15:12:04 App\Mail\SendCakesToInterestedMail ........ 11.80ms FAIL
+ ..... 2,406.01ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:13:02 App\Mail\SendCakesToInterestedMail  2022-10-08 15:13:04 App\Mail\SendCakesToInterestedMail ........ 13.30ms FAIL
+ ..... 2,683.15ms DONE
+  2022-10-08 15:14:02 App\Mail\SendCakesToInterestedMail ........ 13.28ms FAIL
+  2022-10-08 15:14:02 App\Mail\SendCakesToInterestedMail ..... 2,338.19ms DONE
+  2022-10-08 15:15:01 App\Mail\SendCakesToInterestedMail ........ 11.19ms FAIL
+  2022-10-08 15:15:01 App\Mail\SendCakesToInterestedMail ..... 2,721.80ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:16:03 App\Mail\SendCakesToInterestedMail  2022-10-08 15:16:04 App\Mail\SendCakesToInterestedMail ........ 11.17ms FAIL
+ ..... 2,567.91ms DONE
+  2022-10-08 15:17:02 App\Mail\SendCakesToInterestedMail ........ 13.26ms FAIL
+  2022-10-08 15:17:02 App\Mail\SendCakesToInterestedMail ..... 2,527.55ms DONE
+  2022-10-08 15:18:02 App\Mail\SendCakesToInterestedMail ........ 11.02ms FAIL
+  2022-10-08 15:18:02 App\Mail\SendCakesToInterestedMail ..... 2,399.32ms DONE
+  2022-10-08 15:19:01 App\Mail\SendCakesToInterestedMail ........ 10.85ms FAIL
+  2022-10-08 15:19:01 App\Mail\SendCakesToInterestedMail ..... 2,576.46ms DONE
+  2022-10-08 15:20:04 App\Mail\SendCakesToInterestedMail ........ 11.31ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:20:03 App\Mail\SendCakesToInterestedMail ..... 2,369.33ms DONE
+  2022-10-08 15:21:03 App\Mail\SendCakesToInterestedMail ........ 13.36ms FAIL
+  2022-10-08 15:21:03 App\Mail\SendCakesToInterestedMail ..... 2,471.24ms DONE
+  2022-10-08 15:22:02 App\Mail\SendCakesToInterestedMail ........ 11.17ms FAIL
+  2022-10-08 15:22:02 App\Mail\SendCakesToInterestedMail ..... 2,702.59ms DONE
+  2022-10-08 15:23:02 App\Mail\SendCakesToInterestedMail ........ 11.56ms FAIL
+  2022-10-08 15:23:02 App\Mail\SendCakesToInterestedMail ..... 2,329.48ms DONE
+  2022-10-08 15:24:04 App\Mail\SendCakesToInterestedMail ........ 11.50ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:24:04 App\Mail\SendCakesToInterestedMail ..... 2,565.80ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:25:01 App\Mail\SendCakesToInterestedMail  2022-10-08 15:25:04 App\Mail\SendCakesToInterestedMail ........ 13.29ms FAIL
+ ..... 2,559.91ms DONE
+  2022-10-08 15:26:04 App\Mail\SendCakesToInterestedMail ......... 6.88ms FAIL
+  2022-10-08 15:26:04 App\Mail\SendCakesToInterestedMail ..... 2,540.70ms DONE
+  2022-10-08 15:27:03 App\Mail\SendCakesToInterestedMail ........ 11.59ms FAIL
+  2022-10-08 15:27:03 App\Mail\SendCakesToInterestedMail ..... 2,500.94ms DONE
+  2022-10-08 15:28:03 App\Mail\SendCakesToInterestedMail ........ 11.36ms FAIL
+  2022-10-08 15:28:03 App\Mail\SendCakesToInterestedMail ..... 2,730.73ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:29:02 App\Mail\SendCakesToInterestedMail  2022-10-08 15:29:03 App\Mail\SendCakesToInterestedMail ........ 11.44ms FAIL
+ ..... 2,564.87ms DONE
+  2022-10-08 15:30:01 App\Mail\SendCakesToInterestedMail ......... 6.24ms FAIL
+  2022-10-08 15:30:01 App\Mail\SendCakesToInterestedMail ..... 2,662.33ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:31:02 App\Mail\SendCakesToInterestedMail  2022-10-08 15:31:04 App\Mail\SendCakesToInterestedMail ........ 11.45ms FAIL
+ ..... 2,724.78ms DONE
+  2022-10-08 15:32:02 App\Mail\SendCakesToInterestedMail ........ 13.29ms FAIL
+  2022-10-08 15:32:02 App\Mail\SendCakesToInterestedMail ..... 2,507.89ms DONE
+  2022-10-08 15:33:01 App\Mail\SendCakesToInterestedMail ........ 11.36ms FAIL
+  2022-10-08 15:33:01 App\Mail\SendCakesToInterestedMail ..... 2,667.76ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:34:02 App\Mail\SendCakesToInterestedMail  2022-10-08 15:34:04 App\Mail\SendCakesToInterestedMail ........ 11.42ms FAIL
+ ..... 2,506.09ms DONE
+  2022-10-08 15:35:02 App\Mail\SendCakesToInterestedMail ........ 13.62ms FAIL
+  2022-10-08 15:35:02 App\Mail\SendCakesToInterestedMail ..... 2,459.41ms DONE
+  2022-10-08 15:36:02 App\Mail\SendCakesToInterestedMail ......... 6.16ms FAIL
+  2022-10-08 15:36:02 App\Mail\SendCakesToInterestedMail ..... 2,534.65ms DONE
+  2022-10-08 15:37:01 App\Mail\SendCakesToInterestedMail ......... 7.28ms FAIL
+  2022-10-08 15:37:01 App\Mail\SendCakesToInterestedMail ..... 2,522.04ms DONE
+  2022-10-08 15:38:04 App\Mail\SendCakesToInterestedMail ......... 3.64ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:38:03 App\Mail\SendCakesToInterestedMail ..... 2,510.90ms DONE
+  2022-10-08 15:39:03 App\Mail\SendCakesToInterestedMail ........ 13.15ms FAIL
+  2022-10-08 15:39:03 App\Mail\SendCakesToInterestedMail ..... 2,627.33ms DONE
+  2022-10-08 15:40:02 App\Mail\SendCakesToInterestedMail ........ 11.45ms FAIL
+  2022-10-08 15:40:02 App\Mail\SendCakesToInterestedMail ..... 2,604.53ms DONE
+  2022-10-08 15:41:02 App\Mail\SendCakesToInterestedMail ........ 11.48ms FAIL
+  2022-10-08 15:41:02 App\Mail\SendCakesToInterestedMail ..... 2,589.41ms DONE
+  2022-10-08 15:42:02 App\Mail\SendCakesToInterestedMail ........ 11.32ms FAIL
+  2022-10-08 15:42:02 App\Mail\SendCakesToInterestedMail ..... 2,614.55ms DONE
+  2022-10-08 15:43:04 App\Mail\SendCakesToInterestedMail ........ 11.82ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:43:04 App\Mail\SendCakesToInterestedMail ..... 2,497.44ms DONE
+  2022-10-08 15:44:03 App\Mail\SendCakesToInterestedMail ......... 3.84ms FAIL
+  2022-10-08 15:44:04 App\Mail\SendCakesToInterestedMail ..... 2,461.02ms DONE
+  2022-10-08 15:45:03 App\Mail\SendCakesToInterestedMail ......... 9.07ms FAIL
+  2022-10-08 15:45:03 App\Mail\SendCakesToInterestedMail ..... 2,444.41ms DONE
+  2022-10-08 15:46:03 App\Mail\SendCakesToInterestedMail ........ 12.67ms FAIL
+  2022-10-08 15:46:03 App\Mail\SendCakesToInterestedMail ..... 2,514.96ms DONE
+  2022-10-08 15:47:02 App\Mail\SendCakesToInterestedMail ........ 11.34ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:47:02 App\Mail\SendCakesToInterestedMail ..... 2,574.90ms DONE
+  2022-10-08 15:48:01 App\Mail\SendCakesToInterestedMail ........ 13.08ms FAIL
+  2022-10-08 15:48:01 App\Mail\SendCakesToInterestedMail ..... 2,642.29ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:49:02 App\Mail\SendCakesToInterestedMail  2022-10-08 15:49:04 App\Mail\SendCakesToInterestedMail ........ 11.66ms FAIL
+ ..... 2,614.79ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:50:02 App\Mail\SendCakesToInterestedMail  2022-10-08 15:50:05 App\Mail\SendCakesToInterestedMail ........ 13.24ms FAIL
+ ..... 2,644.39ms DONE
+  2022-10-08 15:51:02 App\Mail\SendCakesToInterestedMail ........ 13.30ms FAIL
+  2022-10-08 15:51:02 App\Mail\SendCakesToInterestedMail ..... 2,672.35ms DONE
+  2022-10-08 15:52:02 App\Mail\SendCakesToInterestedMail ........ 11.63ms FAIL
+  2022-10-08 15:52:02 App\Mail\SendCakesToInterestedMail ..... 2,520.94ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:53:03 App\Mail\SendCakesToInterestedMail  2022-10-08 15:53:04 App\Mail\SendCakesToInterestedMail ........ 11.17ms FAIL
+ ..... 2,512.36ms DONE
+  2022-10-08 15:54:02 App\Mail\SendCakesToInterestedMail ........ 13.44ms FAIL
+  2022-10-08 15:54:02 App\Mail\SendCakesToInterestedMail ..... 2,528.02ms DONE
+  2022-10-08 15:55:02 App\Mail\SendCakesToInterestedMail ........ 11.62ms FAIL
+  2022-10-08 15:55:02 App\Mail\SendCakesToInterestedMail ..... 2,414.42ms DONE
+  2022-10-08 15:56:01 App\Mail\SendCakesToInterestedMail ......... 2.93ms FAIL
+  2022-10-08 15:56:01 App\Mail\SendCakesToInterestedMail ..... 2,625.22ms DONE
+  2022-10-08 15:57:04 App\Mail\SendCakesToInterestedMail ........ 11.29ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 15:57:03 App\Mail\SendCakesToInterestedMail ..... 2,548.41ms DONE
+  2022-10-08 15:58:03 App\Mail\SendCakesToInterestedMail ........ 13.23ms FAIL
+  2022-10-08 15:58:03 App\Mail\SendCakesToInterestedMail ..... 2,583.57ms DONE
+  2022-10-08 15:59:02 App\Mail\SendCakesToInterestedMail ........ 11.29ms FAIL
+  2022-10-08 15:59:02 App\Mail\SendCakesToInterestedMail ..... 2,495.92ms DONE
+  2022-10-08 16:00:02 App\Mail\SendCakesToInterestedMail ........ 11.40ms FAIL
+  2022-10-08 16:00:02 App\Mail\SendCakesToInterestedMail ..... 2,528.17ms DONE
+  2022-10-08 16:01:02 App\Mail\SendCakesToInterestedMail ........ 10.40ms FAIL
+  2022-10-08 16:01:02 App\Mail\SendCakesToInterestedMail ..... 2,524.89ms DONE
+  2022-10-08 16:02:01 App\Mail\SendCakesToInterestedMail ........ 11.36ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:02:01 App\Mail\SendCakesToInterestedMail ..... 2,496.85ms DONE
+  2022-10-08 16:03:04 App\Mail\SendCakesToInterestedMail ........ 12.64ms FAIL
+  2022-10-08 16:03:04 App\Mail\SendCakesToInterestedMail ..... 2,500.65ms DONE
+  2022-10-08 16:04:03 App\Mail\SendCakesToInterestedMail ........ 11.63ms FAIL
+  2022-10-08 16:04:03 App\Mail\SendCakesToInterestedMail ..... 2,632.93ms DONE
+  2022-10-08 16:05:03 App\Mail\SendCakesToInterestedMail ........ 11.37ms FAIL
+  2022-10-08 16:05:03 App\Mail\SendCakesToInterestedMail ..... 2,473.92ms DONE
+  2022-10-08 16:06:02 App\Mail\SendCakesToInterestedMail ........ 11.41ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:06:02 App\Mail\SendCakesToInterestedMail ..... 2,486.99ms DONE
+  2022-10-08 16:07:01 App\Mail\SendCakesToInterestedMail ......... 3.24ms FAIL
+  2022-10-08 16:07:01 App\Mail\SendCakesToInterestedMail ..... 2,510.57ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:08:02 App\Mail\SendCakesToInterestedMail  2022-10-08 16:08:04 App\Mail\SendCakesToInterestedMail ........ 11.46ms FAIL
+ ..... 2,687.22ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:09:02 App\Mail\SendCakesToInterestedMail  2022-10-08 16:09:05 App\Mail\SendCakesToInterestedMail ........ 13.68ms FAIL
+ ..... 2,683.72ms DONE
+  2022-10-08 16:10:02 App\Mail\SendCakesToInterestedMail ........ 13.28ms FAIL
+  2022-10-08 16:10:02 App\Mail\SendCakesToInterestedMail ..... 2,648.25ms DONE
+  2022-10-08 16:11:02 App\Mail\SendCakesToInterestedMail ......... 4.15ms FAIL
+  2022-10-08 16:11:02 App\Mail\SendCakesToInterestedMail ..... 2,554.20ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:12:03 App\Mail\SendCakesToInterestedMail  2022-10-08 16:12:04 App\Mail\SendCakesToInterestedMail ........ 11.84ms FAIL
+ ..... 2,563.92ms DONE
+  2022-10-08 16:13:02 App\Mail\SendCakesToInterestedMail ........ 13.33ms FAIL
+  2022-10-08 16:13:02 App\Mail\SendCakesToInterestedMail ..... 2,668.40ms DONE
+  2022-10-08 16:14:02 App\Mail\SendCakesToInterestedMail ........ 11.42ms FAIL
+  2022-10-08 16:14:02 App\Mail\SendCakesToInterestedMail ..... 2,510.85ms DONE
+  2022-10-08 16:15:02 App\Mail\SendCakesToInterestedMail ........ 11.71ms FAIL
+  2022-10-08 16:15:02 App\Mail\SendCakesToInterestedMail ..... 2,682.72ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:16:03 App\Mail\SendCakesToInterestedMail  2022-10-08 16:16:04 App\Mail\SendCakesToInterestedMail ........ 11.46ms FAIL
+ ..... 2,618.49ms DONE
+  2022-10-08 16:17:03 App\Mail\SendCakesToInterestedMail ........ 12.88ms FAIL
+  2022-10-08 16:17:03 App\Mail\SendCakesToInterestedMail ..... 2,394.92ms DONE
+  2022-10-08 16:18:02 App\Mail\SendCakesToInterestedMail ........ 11.13ms FAIL
+  2022-10-08 16:18:02 App\Mail\SendCakesToInterestedMail ..... 2,602.40ms DONE
+  2022-10-08 16:19:02 App\Mail\SendCakesToInterestedMail ........ 11.42ms FAIL
+  2022-10-08 16:19:02 App\Mail\SendCakesToInterestedMail ..... 2,573.57ms DONE
+  2022-10-08 16:20:02 App\Mail\SendCakesToInterestedMail ......... 8.61ms FAIL
+  2022-10-08 16:20:02 App\Mail\SendCakesToInterestedMail ..... 2,648.48ms DONE
+  2022-10-08 16:21:01 App\Mail\SendCakesToInterestedMail ........ 11.33ms FAIL
+  2022-10-08 16:21:01 App\Mail\SendCakesToInterestedMail ..... 2,507.84ms DONE
+  2022-10-08 16:22:04 App\Mail\SendCakesToInterestedMail ........ 11.43ms FAIL
+  2022-10-08 16:22:04 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+ ..... 2,586.62ms DONE
+  2022-10-08 16:23:04 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:23:04 App\Mail\SendCakesToInterestedMail ..... 2,652.87ms DONE
+ ..... 2,492.80ms DONE
+  2022-10-08 16:24:04 App\Mail\SendCakesToInterestedMail ........ 13.54ms FAIL
+  2022-10-08 16:24:04 App\Mail\SendCakesToInterestedMail ..... 2,581.44ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:25:02 App\Mail\SendCakesToInterestedMail  2022-10-08 16:25:04 App\Mail\SendCakesToInterestedMail ......... 6.52ms FAIL
+ ..... 2,407.73ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:26:02 App\Mail\SendCakesToInterestedMail  2022-10-08 16:26:04 App\Mail\SendCakesToInterestedMail ........ 13.39ms FAIL
+ ..... 2,588.00ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:27:02 App\Mail\SendCakesToInterestedMail  2022-10-08 16:27:04 App\Mail\SendCakesToInterestedMail ........ 13.51ms FAIL
+ ..... 2,603.26ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:28:02 App\Mail\SendCakesToInterestedMail  2022-10-08 16:28:05 App\Mail\SendCakesToInterestedMail ........ 13.36ms FAIL
+ ..... 2,555.78ms DONE
+  2022-10-08 16:29:02 App\Mail\SendCakesToInterestedMail ........ 13.46ms FAIL
+  2022-10-08 16:29:02 App\Mail\SendCakesToInterestedMail ..... 2,566.52ms DONE
+  2022-10-08 16:30:01 App\Mail\SendCakesToInterestedMail ......... 4.51ms FAIL
+  2022-10-08 16:30:01 App\Mail\SendCakesToInterestedMail ..... 2,551.09ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:31:03 App\Mail\SendCakesToInterestedMail  2022-10-08 16:31:04 App\Mail\SendCakesToInterestedMail ......... 2.75ms FAIL
+ ..... 2,647.95ms DONE
+  2022-10-08 16:32:02 App\Mail\SendCakesToInterestedMail ........ 13.46ms FAIL
+  2022-10-08 16:32:02 App\Mail\SendCakesToInterestedMail ..... 2,356.37ms DONE
+  2022-10-08 16:33:02 App\Mail\SendCakesToInterestedMail ......... 8.74ms FAIL
+  2022-10-08 16:33:02 App\Mail\SendCakesToInterestedMail ..... 2,587.96ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:34:03 App\Mail\SendCakesToInterestedMail  2022-10-08 16:34:04 App\Mail\SendCakesToInterestedMail ........ 13.80ms FAIL
+ ..... 2,525.00ms DONE
+  2022-10-08 16:35:03 App\Mail\SendCakesToInterestedMail ......... 3.57ms FAIL
+  2022-10-08 16:35:03 App\Mail\SendCakesToInterestedMail ..... 2,385.73ms DONE
+  2022-10-08 16:36:02 App\Mail\SendCakesToInterestedMail ......... 3.95ms FAIL
+  2022-10-08 16:36:02 App\Mail\SendCakesToInterestedMail ..... 2,616.95ms DONE
+  2022-10-08 16:37:02 App\Mail\SendCakesToInterestedMail ......... 3.40ms FAIL
+  2022-10-08 16:37:02 App\Mail\SendCakesToInterestedMail ..... 2,682.75ms DONE
+  2022-10-08 16:38:01 App\Mail\SendCakesToInterestedMail ......... 3.66ms FAIL
+  2022-10-08 16:38:01 App\Mail\SendCakesToInterestedMail ..... 2,612.15ms DONE
+  2022-10-08 16:39:04 App\Mail\SendCakesToInterestedMail ......... 3.81ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:39:03 App\Mail\SendCakesToInterestedMail ..... 2,556.85ms DONE
+  2022-10-08 16:40:03 App\Mail\SendCakesToInterestedMail ......... 4.39ms FAIL
+  2022-10-08 16:40:03 App\Mail\SendCakesToInterestedMail ..... 2,701.69ms DONE
+  2022-10-08 16:41:03 App\Mail\SendCakesToInterestedMail ........ 11.08ms FAIL
+  2022-10-08 16:41:03 App\Mail\SendCakesToInterestedMail ..... 2,509.87ms DONE
+  2022-10-08 16:42:02 App\Mail\SendCakesToInterestedMail ......... 5.85ms FAIL
+  2022-10-08 16:42:02 App\Mail\SendCakesToInterestedMail ..... 2,647.83ms DONE
+  2022-10-08 16:43:02 App\Mail\SendCakesToInterestedMail ........ 11.49ms FAIL
+  2022-10-08 16:43:02 App\Mail\SendCakesToInterestedMail ..... 2,459.91ms DONE
+  2022-10-08 16:44:05 App\Mail\SendCakesToInterestedMail ......... 3.42ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:44:04 App\Mail\SendCakesToInterestedMail ..... 2,589.75ms DONE
+  2022-10-08 16:45:04 App\Mail\SendCakesToInterestedMail ......... 9.36ms FAIL
+  2022-10-08 16:45:04 App\Mail\SendCakesToInterestedMail ..... 2,642.79ms DONE
+  2022-10-08 16:46:03 App\Mail\SendCakesToInterestedMail ......... 5.93ms FAIL
+  2022-10-08 16:46:03 App\Mail\SendCakesToInterestedMail ..... 2,592.31ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:47:01 App\Mail\SendCakesToInterestedMail  2022-10-08 16:47:03 App\Mail\SendCakesToInterestedMail ......... 3.92ms FAIL
+ ..... 2,493.10ms DONE
+  2022-10-08 16:48:04 App\Mail\SendCakesToInterestedMail ......... 4.48ms FAIL
+  2022-10-08 16:48:04 App\Mail\SendCakesToInterestedMail ..... 2,408.60ms DONE
+  2022-10-08 16:49:03 App\Mail\SendCakesToInterestedMail ......... 3.55ms FAIL
+  2022-10-08 16:49:03 App\Mail\SendCakesToInterestedMail ..... 2,647.90ms DONE
+  2022-10-08 16:50:03 App\Mail\SendCakesToInterestedMail ......... 4.73ms FAIL
+  2022-10-08 16:50:03 App\Mail\SendCakesToInterestedMail ..... 2,453.24ms DONE
+  2022-10-08 16:51:02 App\Mail\SendCakesToInterestedMail ......... 4.82ms FAIL
+  2022-10-08 16:51:02 App\Mail\SendCakesToInterestedMail ..... 2,507.04ms DONE
+  2022-10-08 16:52:02 App\Mail\SendCakesToInterestedMail ......... 4.58ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:52:02 App\Mail\SendCakesToInterestedMail ..... 2,736.04ms DONE
+  2022-10-08 16:53:04 App\Mail\SendCakesToInterestedMail ......... 5.74ms FAIL
+  2022-10-08 16:53:04 App\Mail\SendCakesToInterestedMail ..... 2,529.94ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:54:02 App\Mail\SendCakesToInterestedMail  2022-10-08 16:54:04 App\Mail\SendCakesToInterestedMail ......... 4.71ms FAIL
+ ..... 2,613.13ms DONE
+  2022-10-08 16:55:04 App\Mail\SendCakesToInterestedMail ......... 5.11ms FAIL
+  2022-10-08 16:55:04 App\Mail\SendCakesToInterestedMail ..... 2,609.54ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:56:02 App\Mail\SendCakesToInterestedMail  2022-10-08 16:56:04 App\Mail\SendCakesToInterestedMail ......... 5.18ms FAIL
+ ..... 2,564.95ms DONE
+  2022-10-08 16:57:05 App\Mail\SendCakesToInterestedMail ......... 5.60ms FAIL
+  2022-10-08 16:57:05 App\Mail\SendCakesToInterestedMail ..... 2,527.81ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:58:02 App\Mail\SendCakesToInterestedMail  2022-10-08 16:58:04 App\Mail\SendCakesToInterestedMail ......... 5.49ms FAIL
+ ..... 2,453.60ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 16:59:02 App\Mail\SendCakesToInterestedMail  2022-10-08 16:59:05 App\Mail\SendCakesToInterestedMail ......... 4.48ms FAIL
+ ..... 2,663.22ms DONE
+  2022-10-08 17:00:02 App\Mail\SendCakesToInterestedMail ......... 5.29ms FAIL
+  2022-10-08 17:00:02 App\Mail\SendCakesToInterestedMail ..... 2,488.61ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:01:02 App\Mail\SendCakesToInterestedMail  2022-10-08 17:01:04 App\Mail\SendCakesToInterestedMail ......... 4.54ms FAIL
+ ..... 2,482.95ms DONE
+  2022-10-08 17:02:02 App\Mail\SendCakesToInterestedMail ......... 6.61ms FAIL
+  2022-10-08 17:02:02 App\Mail\SendCakesToInterestedMail ..... 2,448.84ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:03:02 App\Mail\SendCakesToInterestedMail  2022-10-08 17:03:04 App\Mail\SendCakesToInterestedMail ......... 4.41ms FAIL
+ ..... 2,570.15ms DONE
+  2022-10-08 17:04:02 App\Mail\SendCakesToInterestedMail ......... 5.32ms FAIL
+  2022-10-08 17:04:02 App\Mail\SendCakesToInterestedMail ..... 2,494.82ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:05:03 App\Mail\SendCakesToInterestedMail  2022-10-08 17:05:04 App\Mail\SendCakesToInterestedMail ......... 5.02ms FAIL
+ ..... 2,709.49ms DONE
+  2022-10-08 17:06:02 App\Mail\SendCakesToInterestedMail ......... 6.55ms FAIL
+  2022-10-08 17:06:02 App\Mail\SendCakesToInterestedMail ..... 2,647.89ms DONE
+  2022-10-08 17:07:02 App\Mail\SendCakesToInterestedMail ......... 4.93ms FAIL
+  2022-10-08 17:07:02 App\Mail\SendCakesToInterestedMail ..... 2,533.51ms DONE
+  2022-10-08 17:08:02 App\Mail\SendCakesToInterestedMail ......... 4.17ms FAIL
+  2022-10-08 17:08:02 App\Mail\SendCakesToInterestedMail ..... 2,520.46ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:09:03 App\Mail\SendCakesToInterestedMail  2022-10-08 17:09:04 App\Mail\SendCakesToInterestedMail ......... 3.72ms FAIL
+ ..... 2,893.85ms DONE
+  2022-10-08 17:10:03 App\Mail\SendCakesToInterestedMail ......... 6.26ms FAIL
+  2022-10-08 17:10:03 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+ ..... 2,369.53ms DONE
+  2022-10-08 17:11:03 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:11:03 App\Mail\SendCakesToInterestedMail ..... 2,425.73ms DONE
+ ..... 2,562.58ms DONE
+  2022-10-08 17:12:03 App\Mail\SendCakesToInterestedMail ......... 5.21ms FAIL
+  2022-10-08 17:12:03 App\Mail\SendCakesToInterestedMail ..... 2,644.03ms DONE
+  2022-10-08 17:13:02 App\Mail\SendCakesToInterestedMail ......... 5.11ms FAIL
+  2022-10-08 17:13:02 App\Mail\SendCakesToInterestedMail ..... 2,502.30ms DONE
+  2022-10-08 17:14:02 App\Mail\SendCakesToInterestedMail ......... 4.90ms FAIL
+  2022-10-08 17:14:02 App\Mail\SendCakesToInterestedMail ..... 2,524.44ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:15:03 App\Mail\SendCakesToInterestedMail  2022-10-08 17:15:04 App\Mail\SendCakesToInterestedMail ......... 4.42ms FAIL
+ ..... 2,504.00ms DONE
+  2022-10-08 17:16:03 App\Mail\SendCakesToInterestedMail ......... 5.19ms FAIL
+  2022-10-08 17:16:03 App\Mail\SendCakesToInterestedMail ..... 2,435.86ms DONE
+  2022-10-08 17:17:02 App\Mail\SendCakesToInterestedMail ......... 3.67ms FAIL
+  2022-10-08 17:17:02 App\Mail\SendCakesToInterestedMail ..... 2,637.87ms DONE
+  2022-10-08 17:18:02 App\Mail\SendCakesToInterestedMail ......... 4.79ms FAIL
+  2022-10-08 17:18:02 App\Mail\SendCakesToInterestedMail ..... 2,660.08ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:19:03 App\Mail\SendCakesToInterestedMail  2022-10-08 17:19:05 App\Mail\SendCakesToInterestedMail ......... 4.74ms FAIL
+ ..... 2,535.04ms DONE
+  2022-10-08 17:20:03 App\Mail\SendCakesToInterestedMail ......... 6.53ms FAIL
+  2022-10-08 17:20:03 App\Mail\SendCakesToInterestedMail ..... 2,572.42ms DONE
+  2022-10-08 17:21:03 App\Mail\SendCakesToInterestedMail ......... 4.70ms FAIL
+  2022-10-08 17:21:03 App\Mail\SendCakesToInterestedMail ..... 2,484.21ms DONE
+  2022-10-08 17:22:02 App\Mail\SendCakesToInterestedMail ......... 4.71ms FAIL
+  2022-10-08 17:22:02 App\Mail\SendCakesToInterestedMail ..... 2,460.66ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:23:04 App\Mail\SendCakesToInterestedMail  2022-10-08 17:23:05 App\Mail\SendCakesToInterestedMail ......... 4.07ms FAIL
+ ..... 2,679.89ms DONE
+  2022-10-08 17:24:03 App\Mail\SendCakesToInterestedMail ......... 5.63ms FAIL
+  2022-10-08 17:24:03 App\Mail\SendCakesToInterestedMail ..... 2,671.62ms DONE
+  2022-10-08 17:25:03 App\Mail\SendCakesToInterestedMail ......... 4.55ms FAIL
+  2022-10-08 17:25:03 App\Mail\SendCakesToInterestedMail ..... 2,478.59ms DONE
+  2022-10-08 17:26:03 App\Mail\SendCakesToInterestedMail ......... 3.99ms FAIL
+  2022-10-08 17:26:03 App\Mail\SendCakesToInterestedMail ..... 2,593.28ms DONE
+  2022-10-08 17:27:02 App\Mail\SendCakesToInterestedMail ......... 5.34ms FAIL
+  2022-10-08 17:27:02 App\Mail\SendCakesToInterestedMail ..... 2,372.76ms DONE
+  2022-10-08 17:28:02 App\Mail\SendCakesToInterestedMail ......... 4.33ms FAIL
+  2022-10-08 17:28:02 App\Mail\SendCakesToInterestedMail ..... 2,522.94ms DONE
+  2022-10-08 17:29:04 App\Mail\SendCakesToInterestedMail ......... 3.95ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:29:04 App\Mail\SendCakesToInterestedMail ..... 2,524.42ms DONE
+  2022-10-08 17:30:04 App\Mail\SendCakesToInterestedMail ......... 5.48ms FAIL
+  2022-10-08 17:30:04 App\Mail\SendCakesToInterestedMail ..... 2,422.57ms DONE
+  2022-10-08 17:31:03 App\Mail\SendCakesToInterestedMail ......... 4.91ms FAIL
+  2022-10-08 17:31:03 App\Mail\SendCakesToInterestedMail ..... 2,607.33ms DONE
+  2022-10-08 17:32:03 App\Mail\SendCakesToInterestedMail ......... 5.75ms FAIL
+  2022-10-08 17:32:03 App\Mail\SendCakesToInterestedMail ..... 2,497.66ms DONE
+  2022-10-08 17:33:02 App\Mail\SendCakesToInterestedMail ......... 4.89ms FAIL
+  2022-10-08 17:33:02 App\Mail\SendCakesToInterestedMail ..... 2,319.28ms DONE
+  2022-10-08 17:34:02 App\Mail\SendCakesToInterestedMail ......... 4.39ms FAIL
+  2022-10-08 17:34:02 App\Mail\SendCakesToInterestedMail ..... 2,504.71ms DONE
+  2022-10-08 17:35:04 App\Mail\SendCakesToInterestedMail ......... 5.87ms FAIL
+  2022-10-08 17:35:04 App\Mail\SendCakesToInterestedMail ..... 2,551.01ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:36:02 App\Mail\SendCakesToInterestedMail  2022-10-08 17:36:04 App\Mail\SendCakesToInterestedMail ......... 2.89ms FAIL
+ ..... 2,528.55ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:37:02 App\Mail\SendCakesToInterestedMail  2022-10-08 17:37:04 App\Mail\SendCakesToInterestedMail ......... 9.34ms FAIL
+ ..... 2,708.61ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:38:02 App\Mail\SendCakesToInterestedMail  2022-10-08 17:38:04 App\Mail\SendCakesToInterestedMail ........ 14.09ms FAIL
+ ..... 2,703.16ms DONE
+  2022-10-08 17:39:02 App\Mail\SendCakesToInterestedMail ......... 5.88ms FAIL
+  2022-10-08 17:39:02 App\Mail\SendCakesToInterestedMail ..... 2,354.23ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:40:02 App\Mail\SendCakesToInterestedMail  2022-10-08 17:40:04 App\Mail\SendCakesToInterestedMail ......... 4.25ms FAIL
+ ..... 2,482.53ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:41:02 App\Mail\SendCakesToInterestedMail  2022-10-08 17:41:05 App\Mail\SendCakesToInterestedMail ......... 3.38ms FAIL
+ ..... 2,609.54ms DONE
+  2022-10-08 17:42:02 App\Mail\SendCakesToInterestedMail ......... 5.17ms FAIL
+  2022-10-08 17:42:02 App\Mail\SendCakesToInterestedMail ..... 2,632.77ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:43:02 App\Mail\SendCakesToInterestedMail  2022-10-08 17:43:04 App\Mail\SendCakesToInterestedMail ......... 5.02ms FAIL
+ ..... 2,545.90ms DONE
+  2022-10-08 17:44:02 App\Mail\SendCakesToInterestedMail ........ 13.28ms FAIL
+  2022-10-08 17:44:02 App\Mail\SendCakesToInterestedMail ..... 2,497.15ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:45:02 App\Mail\SendCakesToInterestedMail  2022-10-08 17:45:04 App\Mail\SendCakesToInterestedMail ......... 5.23ms FAIL
+ ..... 2,785.73ms DONE
+  2022-10-08 17:46:02 App\Mail\SendCakesToInterestedMail ......... 4.64ms FAIL
+  2022-10-08 17:46:02 App\Mail\SendCakesToInterestedMail ..... 2,332.99ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:47:03 App\Mail\SendCakesToInterestedMail  2022-10-08 17:47:05 App\Mail\SendCakesToInterestedMail ......... 5.08ms FAIL
+ ..... 2,660.78ms DONE
+  2022-10-08 17:48:02 App\Mail\SendCakesToInterestedMail ......... 5.52ms FAIL
+  2022-10-08 17:48:02 App\Mail\SendCakesToInterestedMail ..... 2,588.41ms DONE
+  2022-10-08 17:49:02 App\Mail\SendCakesToInterestedMail ......... 3.48ms FAIL
+  2022-10-08 17:49:02 App\Mail\SendCakesToInterestedMail ..... 2,433.16ms DONE
+  2022-10-08 17:50:01 App\Mail\SendCakesToInterestedMail ......... 3.99ms FAIL
+  2022-10-08 17:50:01 App\Mail\SendCakesToInterestedMail ..... 2,594.46ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:51:03 App\Mail\SendCakesToInterestedMail  2022-10-08 17:51:04 App\Mail\SendCakesToInterestedMail ......... 4.81ms FAIL
+ ..... 2,691.22ms DONE
+  2022-10-08 17:52:02 App\Mail\SendCakesToInterestedMail ......... 5.46ms FAIL
+  2022-10-08 17:52:02 App\Mail\SendCakesToInterestedMail ..... 2,574.66ms DONE
+  2022-10-08 17:53:02 App\Mail\SendCakesToInterestedMail ......... 3.76ms FAIL
+  2022-10-08 17:53:02 App\Mail\SendCakesToInterestedMail ..... 2,585.62ms DONE
+  2022-10-08 17:54:02 App\Mail\SendCakesToInterestedMail ......... 4.38ms FAIL
+  2022-10-08 17:54:02 App\Mail\SendCakesToInterestedMail ..... 2,683.98ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:55:03 App\Mail\SendCakesToInterestedMail  2022-10-08 17:55:04 App\Mail\SendCakesToInterestedMail ......... 4.57ms FAIL
+ ..... 2,694.75ms DONE
+  2022-10-08 17:56:03 App\Mail\SendCakesToInterestedMail ......... 5.83ms FAIL
+  2022-10-08 17:56:03 App\Mail\SendCakesToInterestedMail ..... 2,593.37ms DONE
+  2022-10-08 17:57:02 App\Mail\SendCakesToInterestedMail ......... 4.07ms FAIL
+  2022-10-08 17:57:02 App\Mail\SendCakesToInterestedMail ..... 2,367.66ms DONE
+  2022-10-08 17:58:02 App\Mail\SendCakesToInterestedMail ......... 3.94ms FAIL
+  2022-10-08 17:58:02 App\Mail\SendCakesToInterestedMail ..... 2,560.46ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 17:59:03 App\Mail\SendCakesToInterestedMail  2022-10-08 17:59:04 App\Mail\SendCakesToInterestedMail ......... 4.66ms FAIL
+ ..... 2,555.77ms DONE
+  2022-10-08 18:00:03 App\Mail\SendCakesToInterestedMail ......... 5.90ms FAIL
+  2022-10-08 18:00:03 App\Mail\SendCakesToInterestedMail ..... 2,612.80ms DONE
+  2022-10-08 18:01:03 App\Mail\SendCakesToInterestedMail ......... 4.61ms FAIL
+  2022-10-08 18:01:03 App\Mail\SendCakesToInterestedMail ..... 2,488.11ms DONE
+  2022-10-08 18:02:02 App\Mail\SendCakesToInterestedMail ......... 3.24ms FAIL
+  2022-10-08 18:02:02 App\Mail\SendCakesToInterestedMail ..... 2,601.00ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:03:04 App\Mail\SendCakesToInterestedMail  2022-10-08 18:03:05 App\Mail\SendCakesToInterestedMail ......... 4.33ms FAIL
+ ..... 2,613.82ms DONE
+  2022-10-08 18:04:03 App\Mail\SendCakesToInterestedMail ......... 5.31ms FAIL
+  2022-10-08 18:04:03 App\Mail\SendCakesToInterestedMail ..... 2,562.94ms DONE
+  2022-10-08 18:05:03 App\Mail\SendCakesToInterestedMail ......... 4.84ms FAIL
+  2022-10-08 18:05:03 App\Mail\SendCakesToInterestedMail ..... 2,512.01ms DONE
+  2022-10-08 18:06:02 App\Mail\SendCakesToInterestedMail ......... 4.81ms FAIL
+  2022-10-08 18:06:02 App\Mail\SendCakesToInterestedMail ..... 2,511.73ms DONE
+  2022-10-08 18:07:02 App\Mail\SendCakesToInterestedMail ......... 5.77ms FAIL
+  2022-10-08 18:07:02 App\Mail\SendCakesToInterestedMail ..... 2,612.29ms DONE
+  2022-10-08 18:08:02 App\Mail\SendCakesToInterestedMail ......... 4.63ms FAIL
+  2022-10-08 18:08:02 App\Mail\SendCakesToInterestedMail ..... 2,546.22ms DONE
+  2022-10-08 18:09:04 App\Mail\SendCakesToInterestedMail ......... 4.94ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:09:04 App\Mail\SendCakesToInterestedMail ..... 2,547.17ms DONE
+  2022-10-08 18:10:04 App\Mail\SendCakesToInterestedMail ......... 4.98ms FAIL
+  2022-10-08 18:10:04 App\Mail\SendCakesToInterestedMail ..... 2,535.09ms DONE
+  2022-10-08 18:11:03 App\Mail\SendCakesToInterestedMail ......... 4.46ms FAIL
+  2022-10-08 18:11:03 App\Mail\SendCakesToInterestedMail ..... 2,654.50ms DONE
+  2022-10-08 18:12:03 App\Mail\SendCakesToInterestedMail ......... 4.88ms FAIL
+  2022-10-08 18:12:03 App\Mail\SendCakesToInterestedMail ..... 2,681.10ms DONE
+  2022-10-08 18:13:03 App\Mail\SendCakesToInterestedMail ......... 4.40ms FAIL
+  2022-10-08 18:13:03 App\Mail\SendCakesToInterestedMail ..... 2,636.98ms DONE
+  2022-10-08 18:14:02 App\Mail\SendCakesToInterestedMail ......... 4.20ms FAIL
+  2022-10-08 18:14:02 App\Mail\SendCakesToInterestedMail ..... 2,712.16ms DONE
+  2022-10-08 18:15:02 App\Mail\SendCakesToInterestedMail ......... 4.58ms FAIL
+  2022-10-08 18:15:02 App\Mail\SendCakesToInterestedMail ..... 2,479.64ms DONE
+  2022-10-08 18:16:01 App\Mail\SendCakesToInterestedMail ......... 5.18ms FAIL
+  2022-10-08 18:16:01 App\Mail\SendCakesToInterestedMail ..... 2,342.68ms DONE
+  2022-10-08 18:17:04 App\Mail\SendCakesToInterestedMail ......... 4.00ms FAIL
+  2022-10-08 18:17:04 App\Mail\SendCakesToInterestedMail ..... 2,717.46ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:18:02 App\Mail\SendCakesToInterestedMail  2022-10-08 18:18:04 App\Mail\SendCakesToInterestedMail ......... 5.22ms FAIL
+ ..... 2,671.56ms DONE
+  2022-10-08 18:19:04 App\Mail\SendCakesToInterestedMail ......... 4.41ms FAIL
+  2022-10-08 18:19:04 App\Mail\SendCakesToInterestedMail ..... 2,521.63ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:20:02 App\Mail\SendCakesToInterestedMail  2022-10-08 18:20:04 App\Mail\SendCakesToInterestedMail ......... 5.06ms FAIL
+ ..... 2,639.56ms DONE
+  2022-10-08 18:21:04 App\Mail\SendCakesToInterestedMail ......... 5.46ms FAIL
+  2022-10-08 18:21:04 App\Mail\SendCakesToInterestedMail ..... 2,394.44ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:22:02 App\Mail\SendCakesToInterestedMail  2022-10-08 18:22:04 App\Mail\SendCakesToInterestedMail ......... 4.64ms FAIL
+ ..... 2,496.46ms DONE
+  2022-10-08 18:23:04 App\Mail\SendCakesToInterestedMail ......... 6.32ms FAIL
+  2022-10-08 18:23:04 App\Mail\SendCakesToInterestedMail ..... 2,656.54ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:24:02 App\Mail\SendCakesToInterestedMail  2022-10-08 18:24:04 App\Mail\SendCakesToInterestedMail ......... 4.26ms FAIL
+ ..... 2,625.53ms DONE
+  2022-10-08 18:25:05 App\Mail\SendCakesToInterestedMail ......... 4.84ms FAIL
+  2022-10-08 18:25:05 App\Mail\SendCakesToInterestedMail ..... 2,523.66ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:26:02 App\Mail\SendCakesToInterestedMail  2022-10-08 18:26:04 App\Mail\SendCakesToInterestedMail ......... 4.50ms FAIL
+ ..... 2,630.97ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:27:02 App\Mail\SendCakesToInterestedMail  2022-10-08 18:27:05 App\Mail\SendCakesToInterestedMail ......... 5.41ms FAIL
+ ..... 2,559.41ms DONE
+  2022-10-08 18:28:02 App\Mail\SendCakesToInterestedMail ......... 5.08ms FAIL
+  2022-10-08 18:28:02 App\Mail\SendCakesToInterestedMail ..... 2,476.13ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:29:02 App\Mail\SendCakesToInterestedMail  2022-10-08 18:29:04 App\Mail\SendCakesToInterestedMail ......... 4.98ms FAIL
+ ..... 2,530.91ms DONE
+  2022-10-08 18:30:02 App\Mail\SendCakesToInterestedMail ......... 5.11ms FAIL
+  2022-10-08 18:30:02 App\Mail\SendCakesToInterestedMail ..... 2,673.03ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:31:02 App\Mail\SendCakesToInterestedMail  2022-10-08 18:31:05 App\Mail\SendCakesToInterestedMail ......... 4.90ms FAIL
+ ..... 2,753.54ms DONE
+  2022-10-08 18:32:02 App\Mail\SendCakesToInterestedMail ........ 12.88ms FAIL
+  2022-10-08 18:32:02 App\Mail\SendCakesToInterestedMail ..... 2,710.09ms DONE
+  2022-10-08 18:33:02 App\Mail\SendCakesToInterestedMail ........ 10.21ms FAIL
+  2022-10-08 18:33:02 App\Mail\SendCakesToInterestedMail ..... 2,680.91ms DONE
+  2022-10-08 18:34:02 App\Mail\SendCakesToInterestedMail ........ 13.66ms FAIL
+  2022-10-08 18:34:02 App\Mail\SendCakesToInterestedMail ..... 2,582.91ms DONE
+  2022-10-08 18:35:01 App\Mail\SendCakesToInterestedMail ........ 11.55ms FAIL
+  2022-10-08 18:35:01 App\Mail\SendCakesToInterestedMail ..... 2,352.02ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:36:03 App\Mail\SendCakesToInterestedMail  2022-10-08 18:36:04 App\Mail\SendCakesToInterestedMail ......... 4.09ms FAIL
+ ..... 2,663.10ms DONE
+  2022-10-08 18:37:03 App\Mail\SendCakesToInterestedMail ......... 7.18ms FAIL
+  2022-10-08 18:37:03 App\Mail\SendCakesToInterestedMail ..... 2,333.71ms DONE
+  2022-10-08 18:38:02 App\Mail\SendCakesToInterestedMail ......... 4.51ms FAIL
+  2022-10-08 18:38:02 App\Mail\SendCakesToInterestedMail ..... 2,664.38ms DONE
+  2022-10-08 18:39:02 App\Mail\SendCakesToInterestedMail ......... 4.53ms FAIL
+  2022-10-08 18:39:02 App\Mail\SendCakesToInterestedMail ..... 2,663.74ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:40:03 App\Mail\SendCakesToInterestedMail  2022-10-08 18:40:04 App\Mail\SendCakesToInterestedMail ......... 5.04ms FAIL
+ ..... 2,643.46ms DONE
+  2022-10-08 18:41:03 App\Mail\SendCakesToInterestedMail ......... 5.39ms FAIL
+  2022-10-08 18:41:03 App\Mail\SendCakesToInterestedMail ..... 2,705.21ms DONE
+  2022-10-08 18:42:03 App\Mail\SendCakesToInterestedMail ......... 4.60ms FAIL
+  2022-10-08 18:42:03 App\Mail\SendCakesToInterestedMail ..... 2,508.54ms DONE
+  2022-10-08 18:43:02 App\Mail\SendCakesToInterestedMail ......... 4.13ms FAIL
+  2022-10-08 18:43:02 App\Mail\SendCakesToInterestedMail ..... 2,466.92ms DONE
+  2022-10-08 18:44:02 App\Mail\SendCakesToInterestedMail ......... 5.01ms FAIL
+  2022-10-08 18:44:02 App\Mail\SendCakesToInterestedMail ..... 2,457.87ms DONE
+  2022-10-08 18:45:01 App\Mail\SendCakesToInterestedMail ......... 5.32ms FAIL
+  2022-10-08 18:45:01 App\Mail\SendCakesToInterestedMail ..... 2,734.19ms DONE
+  2022-10-08 18:46:04 App\Mail\SendCakesToInterestedMail ......... 4.28ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:46:04 App\Mail\SendCakesToInterestedMail ..... 2,532.20ms DONE
+  2022-10-08 18:47:03 App\Mail\SendCakesToInterestedMail ......... 5.13ms FAIL
+  2022-10-08 18:47:03 App\Mail\SendCakesToInterestedMail ..... 2,463.36ms DONE
+  2022-10-08 18:48:03 App\Mail\SendCakesToInterestedMail ......... 3.96ms FAIL
+  2022-10-08 18:48:03 App\Mail\SendCakesToInterestedMail ..... 2,488.60ms DONE
+  2022-10-08 18:49:02 App\Mail\SendCakesToInterestedMail ......... 4.81ms FAIL
+  2022-10-08 18:49:02 App\Mail\SendCakesToInterestedMail ..... 2,336.52ms DONE
+  2022-10-08 18:50:05 App\Mail\SendCakesToInterestedMail ......... 4.26ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:50:04 App\Mail\SendCakesToInterestedMail ..... 2,416.07ms DONE
+  2022-10-08 18:51:03 App\Mail\SendCakesToInterestedMail ......... 5.28ms FAIL
+  2022-10-08 18:51:03 App\Mail\SendCakesToInterestedMail ..... 2,698.76ms DONE
+  2022-10-08 18:52:03 App\Mail\SendCakesToInterestedMail ......... 4.87ms FAIL
+  2022-10-08 18:52:03 App\Mail\SendCakesToInterestedMail ..... 2,681.02ms DONE
+  2022-10-08 18:53:03 App\Mail\SendCakesToInterestedMail ......... 4.46ms FAIL
+  2022-10-08 18:53:03 App\Mail\SendCakesToInterestedMail ..... 2,489.57ms DONE
+  2022-10-08 18:54:02 App\Mail\SendCakesToInterestedMail ......... 4.57ms FAIL
+  2022-10-08 18:54:02 App\Mail\SendCakesToInterestedMail ..... 2,492.30ms DONE
+  2022-10-08 18:55:02 App\Mail\SendCakesToInterestedMail ......... 4.35ms FAIL
+  2022-10-08 18:55:02 App\Mail\SendCakesToInterestedMail ..... 2,568.99ms DONE
+  2022-10-08 18:56:04 App\Mail\SendCakesToInterestedMail ......... 5.16ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 18:56:04 App\Mail\SendCakesToInterestedMail ..... 2,658.41ms DONE
+  2022-10-08 18:57:04 App\Mail\SendCakesToInterestedMail ......... 5.94ms FAIL
+  2022-10-08 18:57:04 App\Mail\SendCakesToInterestedMail ..... 2,483.54ms DONE
+  2022-10-08 18:58:04 App\Mail\SendCakesToInterestedMail ......... 3.70ms FAIL
+  2022-10-08 18:58:04 App\Mail\SendCakesToInterestedMail ..... 2,694.06ms DONE
+  2022-10-08 18:59:03 App\Mail\SendCakesToInterestedMail ......... 4.43ms FAIL
+  2022-10-08 18:59:03 App\Mail\SendCakesToInterestedMail ..... 2,919.30ms DONE
+  2022-10-08 19:00:03 App\Mail\SendCakesToInterestedMail ......... 4.90ms FAIL
+  2022-10-08 19:00:03 App\Mail\SendCakesToInterestedMail ..... 2,530.96ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:01:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:01:03 App\Mail\SendCakesToInterestedMail ......... 4.29ms FAIL
+ ..... 2,541.43ms DONE
+  2022-10-08 19:02:04 App\Mail\SendCakesToInterestedMail ......... 5.65ms FAIL
+  2022-10-08 19:02:04 App\Mail\SendCakesToInterestedMail ..... 2,614.22ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:03:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:03:04 App\Mail\SendCakesToInterestedMail ......... 4.57ms FAIL
+ ..... 2,520.24ms DONE
+  2022-10-08 19:04:04 App\Mail\SendCakesToInterestedMail ......... 4.65ms FAIL
+  2022-10-08 19:04:04 App\Mail\SendCakesToInterestedMail ..... 2,411.28ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:05:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:05:04 App\Mail\SendCakesToInterestedMail ......... 4.68ms FAIL
+ ..... 2,598.93ms DONE
+  2022-10-08 19:06:04 App\Mail\SendCakesToInterestedMail ......... 5.19ms FAIL
+  2022-10-08 19:06:05 App\Mail\SendCakesToInterestedMail ..... 2,643.93ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:07:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:07:04 App\Mail\SendCakesToInterestedMail ......... 4.89ms FAIL
+ ..... 2,658.24ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:08:02 App\Mail\SendCakesToInterestedMail ..... 2,526.87ms DONE
+  2022-10-08 19:08:05 App\Mail\SendCakesToInterestedMail ....... 786.09ms DONE
+  2022-10-08 19:09:02 App\Mail\SendCakesToInterestedMail ......... 5.24ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:09:02 App\Mail\SendCakesToInterestedMail ..... 2,602.88ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:10:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:10:05 App\Mail\SendCakesToInterestedMail ......... 5.76ms FAIL
+ ..... 2,554.19ms DONE
+  2022-10-08 19:11:02 App\Mail\SendCakesToInterestedMail ......... 5.11ms FAIL
+  2022-10-08 19:11:02 App\Mail\SendCakesToInterestedMail ..... 2,447.77ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:12:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:12:04 App\Mail\SendCakesToInterestedMail ......... 4.68ms FAIL
+ ..... 2,757.17ms DONE
+  2022-10-08 19:13:02 App\Mail\SendCakesToInterestedMail ......... 4.68ms FAIL
+  2022-10-08 19:13:02 App\Mail\SendCakesToInterestedMail ..... 2,350.90ms DONE
+  2022-10-08 19:14:01 App\Mail\SendCakesToInterestedMail ......... 4.22ms FAIL
+  2022-10-08 19:14:02 App\Mail\SendCakesToInterestedMail ..... 2,635.25ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:15:03 App\Mail\SendCakesToInterestedMail  2022-10-08 19:15:04 App\Mail\SendCakesToInterestedMail ......... 4.33ms FAIL
+ ..... 2,631.41ms DONE
+  2022-10-08 19:16:02 App\Mail\SendCakesToInterestedMail ......... 4.62ms FAIL
+  2022-10-08 19:16:02 App\Mail\SendCakesToInterestedMail ..... 2,484.83ms DONE
+  2022-10-08 19:17:02 App\Mail\SendCakesToInterestedMail ......... 4.58ms FAIL
+  2022-10-08 19:17:02 App\Mail\SendCakesToInterestedMail ..... 2,515.85ms DONE
+  2022-10-08 19:18:01 App\Mail\SendCakesToInterestedMail ......... 4.80ms FAIL
+  2022-10-08 19:18:01 App\Mail\SendCakesToInterestedMail ..... 2,483.95ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:19:03 App\Mail\SendCakesToInterestedMail  2022-10-08 19:19:04 App\Mail\SendCakesToInterestedMail ......... 5.09ms FAIL
+ ..... 2,399.87ms DONE
+  2022-10-08 19:20:02 App\Mail\SendCakesToInterestedMail ......... 5.73ms FAIL
+  2022-10-08 19:20:02 App\Mail\SendCakesToInterestedMail ..... 2,636.37ms DONE
+  2022-10-08 19:21:02 App\Mail\SendCakesToInterestedMail ......... 5.58ms FAIL
+  2022-10-08 19:21:02 App\Mail\SendCakesToInterestedMail ..... 2,576.46ms DONE
+  2022-10-08 19:22:02 App\Mail\SendCakesToInterestedMail ......... 4.49ms FAIL
+  2022-10-08 19:22:02 App\Mail\SendCakesToInterestedMail ..... 2,450.68ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:23:03 App\Mail\SendCakesToInterestedMail  2022-10-08 19:23:04 App\Mail\SendCakesToInterestedMail ......... 4.71ms FAIL
+ ..... 2,685.33ms DONE
+  2022-10-08 19:24:03 App\Mail\SendCakesToInterestedMail ......... 5.40ms FAIL
+  2022-10-08 19:24:03 App\Mail\SendCakesToInterestedMail ..... 2,645.84ms DONE
+  2022-10-08 19:25:02 App\Mail\SendCakesToInterestedMail ......... 5.44ms FAIL
+  2022-10-08 19:25:02 App\Mail\SendCakesToInterestedMail ..... 2,612.09ms DONE
+  2022-10-08 19:26:02 App\Mail\SendCakesToInterestedMail ......... 4.46ms FAIL
+  2022-10-08 19:26:02 App\Mail\SendCakesToInterestedMail ..... 2,511.67ms DONE
+  2022-10-08 19:27:02 App\Mail\SendCakesToInterestedMail ......... 4.59ms FAIL
+  2022-10-08 19:27:02 App\Mail\SendCakesToInterestedMail ..... 2,400.82ms DONE
+  2022-10-08 19:28:04 App\Mail\SendCakesToInterestedMail ......... 3.95ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:28:03 App\Mail\SendCakesToInterestedMail ..... 2,678.75ms DONE
+  2022-10-08 19:29:03 App\Mail\SendCakesToInterestedMail ......... 5.15ms FAIL
+  2022-10-08 19:29:03 App\Mail\SendCakesToInterestedMail ..... 2,608.16ms DONE
+  2022-10-08 19:30:03 App\Mail\SendCakesToInterestedMail ......... 4.70ms FAIL
+  2022-10-08 19:30:03 App\Mail\SendCakesToInterestedMail ..... 2,481.63ms DONE
+  2022-10-08 19:31:02 App\Mail\SendCakesToInterestedMail ......... 4.17ms FAIL
+  2022-10-08 19:31:02 App\Mail\SendCakesToInterestedMail ..... 2,536.56ms DONE
+  2022-10-08 19:32:02 App\Mail\SendCakesToInterestedMail ......... 3.45ms FAIL
+  2022-10-08 19:32:02 App\Mail\SendCakesToInterestedMail ..... 2,622.87ms DONE
+  2022-10-08 19:33:01 App\Mail\SendCakesToInterestedMail ......... 2.84ms FAIL
+  2022-10-08 19:33:02 App\Mail\SendCakesToInterestedMail ..... 2,442.29ms DONE
+  2022-10-08 19:34:04 App\Mail\SendCakesToInterestedMail ......... 4.74ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:34:04 App\Mail\SendCakesToInterestedMail ..... 2,761.73ms DONE
+  2022-10-08 19:35:04 App\Mail\SendCakesToInterestedMail ........ 16.75ms FAIL
+  2022-10-08 19:35:04 App\Mail\SendCakesToInterestedMail ..... 2,596.58ms DONE
+  2022-10-08 19:36:03 App\Mail\SendCakesToInterestedMail ......... 3.02ms FAIL
+  2022-10-08 19:36:03 App\Mail\SendCakesToInterestedMail ..... 2,669.57ms DONE
+  2022-10-08 19:37:03 App\Mail\SendCakesToInterestedMail ......... 4.19ms FAIL
+  2022-10-08 19:37:03 App\Mail\SendCakesToInterestedMail ..... 2,566.45ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:38:01 App\Mail\SendCakesToInterestedMail  2022-10-08 19:38:03 App\Mail\SendCakesToInterestedMail ......... 3.10ms FAIL
+ ..... 2,725.40ms DONE
+  2022-10-08 19:39:04 App\Mail\SendCakesToInterestedMail ......... 4.61ms FAIL
+  2022-10-08 19:39:04 App\Mail\SendCakesToInterestedMail ..... 2,685.48ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:40:01 App\Mail\SendCakesToInterestedMail  2022-10-08 19:40:04 App\Mail\SendCakesToInterestedMail ......... 4.63ms FAIL
+ ..... 2,642.82ms DONE
+  2022-10-08 19:41:04 App\Mail\SendCakesToInterestedMail ......... 5.87ms FAIL
+  2022-10-08 19:41:04 App\Mail\SendCakesToInterestedMail ..... 2,492.16ms DONE
+  2022-10-08 19:42:04 App\Mail\SendCakesToInterestedMail ......... 5.43ms FAIL
+  2022-10-08 19:42:04 App\Mail\SendCakesToInterestedMail ..... 2,515.89ms DONE
+  2022-10-08 19:43:03 App\Mail\SendCakesToInterestedMail ......... 4.78ms FAIL
+  2022-10-08 19:43:03 App\Mail\SendCakesToInterestedMail ..... 2,510.78ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:44:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:44:03 App\Mail\SendCakesToInterestedMail ......... 5.38ms FAIL
+ ..... 2,381.69ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:45:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:45:04 App\Mail\SendCakesToInterestedMail ......... 6.18ms FAIL
+ ..... 2,604.11ms DONE
+  2022-10-08 19:46:04 App\Mail\SendCakesToInterestedMail ......... 5.55ms FAIL
+  2022-10-08 19:46:04 App\Mail\SendCakesToInterestedMail ..... 2,612.24ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:47:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:47:04 App\Mail\SendCakesToInterestedMail ......... 4.21ms FAIL
+ ..... 2,409.22ms DONE
+  2022-10-08 19:48:01 App\Mail\SendCakesToInterestedMail ......... 5.53ms FAIL
+  2022-10-08 19:48:01 App\Mail\SendCakesToInterestedMail ..... 2,385.65ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:49:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:49:04 App\Mail\SendCakesToInterestedMail ......... 4.45ms FAIL
+ ..... 2,661.88ms DONE
+  2022-10-08 19:50:05 App\Mail\SendCakesToInterestedMail ......... 4.75ms FAIL
+  2022-10-08 19:50:05 App\Mail\SendCakesToInterestedMail ..... 2,636.37ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:51:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:51:04 App\Mail\SendCakesToInterestedMail ......... 4.27ms FAIL
+ ..... 2,601.81ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:52:02 App\Mail\SendCakesToInterestedMail ..... 2,581.19ms DONE
+  2022-10-08 19:52:05 App\Mail\SendCakesToInterestedMail ....... 798.37ms DONE
+  2022-10-08 19:53:03 App\Mail\SendCakesToInterestedMail ......... 9.92ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:53:02 App\Mail\SendCakesToInterestedMail ..... 2,561.01ms DONE
+  2022-10-08 19:54:02 App\Mail\SendCakesToInterestedMail ......... 3.64ms FAIL
+  2022-10-08 19:54:02 App\Mail\SendCakesToInterestedMail ..... 2,399.27ms DONE
+  2022-10-08 19:55:01 App\Mail\SendCakesToInterestedMail ......... 3.34ms FAIL
+  2022-10-08 19:55:01 App\Mail\SendCakesToInterestedMail ..... 2,502.24ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:56:02 App\Mail\SendCakesToInterestedMail  2022-10-08 19:56:04 App\Mail\SendCakesToInterestedMail ......... 4.01ms FAIL
+ ..... 2,547.36ms DONE
+  2022-10-08 19:57:02 App\Mail\SendCakesToInterestedMail ......... 4.42ms FAIL
+  2022-10-08 19:57:02 App\Mail\SendCakesToInterestedMail ..... 2,446.52ms DONE
+  2022-10-08 19:58:01 App\Mail\SendCakesToInterestedMail ......... 5.24ms FAIL
+  2022-10-08 19:58:01 App\Mail\SendCakesToInterestedMail ..... 2,573.74ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 19:59:03 App\Mail\SendCakesToInterestedMail  2022-10-08 19:59:04 App\Mail\SendCakesToInterestedMail ......... 3.96ms FAIL
+ ..... 2,679.38ms DONE
+  2022-10-08 20:00:02 App\Mail\SendCakesToInterestedMail ......... 5.87ms FAIL
+  2022-10-08 20:00:02 App\Mail\SendCakesToInterestedMail ..... 2,341.79ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:01:03 App\Mail\SendCakesToInterestedMail  2022-10-08 20:01:05 App\Mail\SendCakesToInterestedMail ......... 4.68ms FAIL
+ ..... 2,650.33ms DONE
+  2022-10-08 20:02:02 App\Mail\SendCakesToInterestedMail ......... 4.53ms FAIL
+  2022-10-08 20:02:03 App\Mail\SendCakesToInterestedMail ..... 2,692.48ms DONE
+  2022-10-08 20:03:02 App\Mail\SendCakesToInterestedMail ......... 3.94ms FAIL
+  2022-10-08 20:03:02 App\Mail\SendCakesToInterestedMail ..... 2,691.78ms DONE
+  2022-10-08 20:04:02 App\Mail\SendCakesToInterestedMail ......... 3.63ms FAIL
+  2022-10-08 20:04:02 App\Mail\SendCakesToInterestedMail ..... 2,512.33ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:05:03 App\Mail\SendCakesToInterestedMail  2022-10-08 20:05:04 App\Mail\SendCakesToInterestedMail ......... 4.02ms FAIL
+ ..... 2,600.06ms DONE
+  2022-10-08 20:06:03 App\Mail\SendCakesToInterestedMail ......... 6.15ms FAIL
+  2022-10-08 20:06:03 App\Mail\SendCakesToInterestedMail ..... 2,407.45ms DONE
+  2022-10-08 20:07:02 App\Mail\SendCakesToInterestedMail ......... 4.05ms FAIL
+  2022-10-08 20:07:02 App\Mail\SendCakesToInterestedMail ..... 2,464.18ms DONE
+  2022-10-08 20:08:02 App\Mail\SendCakesToInterestedMail ......... 4.56ms FAIL
+  2022-10-08 20:08:02 App\Mail\SendCakesToInterestedMail ..... 2,636.44ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:09:03 App\Mail\SendCakesToInterestedMail  2022-10-08 20:09:04 App\Mail\SendCakesToInterestedMail ......... 5.53ms FAIL
+ ..... 2,475.59ms DONE
+  2022-10-08 20:10:03 App\Mail\SendCakesToInterestedMail ......... 4.80ms FAIL
+  2022-10-08 20:10:03 App\Mail\SendCakesToInterestedMail ..... 2,328.60ms DONE
+  2022-10-08 20:11:02 App\Mail\SendCakesToInterestedMail ......... 4.73ms FAIL
+  2022-10-08 20:11:02 App\Mail\SendCakesToInterestedMail ..... 2,464.08ms DONE
+  2022-10-08 20:12:02 App\Mail\SendCakesToInterestedMail ......... 4.24ms FAIL
+  2022-10-08 20:12:02 App\Mail\SendCakesToInterestedMail ..... 2,448.35ms DONE
+  2022-10-08 20:13:04 App\Mail\SendCakesToInterestedMail ......... 4.71ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:13:04 App\Mail\SendCakesToInterestedMail ..... 2,604.09ms DONE
+  2022-10-08 20:14:03 App\Mail\SendCakesToInterestedMail ......... 5.32ms FAIL
+  2022-10-08 20:14:03 App\Mail\SendCakesToInterestedMail ..... 2,895.37ms DONE
+  2022-10-08 20:15:03 App\Mail\SendCakesToInterestedMail ......... 4.41ms FAIL
+  2022-10-08 20:15:03 App\Mail\SendCakesToInterestedMail ..... 2,531.59ms DONE
+  2022-10-08 20:16:03 App\Mail\SendCakesToInterestedMail ......... 4.70ms FAIL
+  2022-10-08 20:16:03 App\Mail\SendCakesToInterestedMail ..... 2,351.72ms DONE
+  2022-10-08 20:17:02 App\Mail\SendCakesToInterestedMail ......... 4.11ms FAIL
+  2022-10-08 20:17:02 App\Mail\SendCakesToInterestedMail ..... 2,502.48ms DONE
+  2022-10-08 20:18:02 App\Mail\SendCakesToInterestedMail ......... 4.31ms FAIL
+  2022-10-08 20:18:02 App\Mail\SendCakesToInterestedMail ..... 2,317.55ms DONE
+  2022-10-08 20:19:04 App\Mail\SendCakesToInterestedMail ......... 5.17ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:19:04 App\Mail\SendCakesToInterestedMail ..... 2,611.04ms DONE
+  2022-10-08 20:20:04 App\Mail\SendCakesToInterestedMail ......... 6.47ms FAIL
+  2022-10-08 20:20:04 App\Mail\SendCakesToInterestedMail ..... 2,449.36ms DONE
+  2022-10-08 20:21:03 App\Mail\SendCakesToInterestedMail ......... 4.54ms FAIL
+  2022-10-08 20:21:03 App\Mail\SendCakesToInterestedMail ..... 2,516.98ms DONE
+  2022-10-08 20:22:03 App\Mail\SendCakesToInterestedMail ......... 4.26ms FAIL
+  2022-10-08 20:22:03 App\Mail\SendCakesToInterestedMail ..... 2,694.60ms DONE
+  2022-10-08 20:23:02 App\Mail\SendCakesToInterestedMail ......... 4.13ms FAIL
+  2022-10-08 20:23:02 App\Mail\SendCakesToInterestedMail ..... 2,497.35ms DONE
+  2022-10-08 20:24:02 App\Mail\SendCakesToInterestedMail ......... 4.50ms FAIL
+  2022-10-08 20:24:02 App\Mail\SendCakesToInterestedMail ..... 2,579.08ms DONE
+  2022-10-08 20:25:05 App\Mail\SendCakesToInterestedMail ......... 5.15ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:25:04 App\Mail\SendCakesToInterestedMail ..... 2,690.73ms DONE
+  2022-10-08 20:26:04 App\Mail\SendCakesToInterestedMail ......... 4.69ms FAIL
+  2022-10-08 20:26:04 App\Mail\SendCakesToInterestedMail ..... 2,360.44ms DONE
+  2022-10-08 20:27:03 App\Mail\SendCakesToInterestedMail ......... 4.79ms FAIL
+  2022-10-08 20:27:03 App\Mail\SendCakesToInterestedMail ..... 2,392.94ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:28:02 App\Mail\SendCakesToInterestedMail  2022-10-08 20:28:03 App\Mail\SendCakesToInterestedMail ......... 5.39ms FAIL
+ ..... 2,634.67ms DONE
+  2022-10-08 20:29:04 App\Mail\SendCakesToInterestedMail ......... 5.66ms FAIL
+  2022-10-08 20:29:04 App\Mail\SendCakesToInterestedMail ..... 2,524.74ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:30:02 App\Mail\SendCakesToInterestedMail  2022-10-08 20:30:04 App\Mail\SendCakesToInterestedMail ......... 3.75ms FAIL
+ ..... 2,690.87ms DONE
+  2022-10-08 20:31:04 App\Mail\SendCakesToInterestedMail ......... 5.54ms FAIL
+  2022-10-08 20:31:04 App\Mail\SendCakesToInterestedMail ..... 2,514.10ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:32:02 App\Mail\SendCakesToInterestedMail  2022-10-08 20:32:04 App\Mail\SendCakesToInterestedMail ......... 4.75ms FAIL
+ ..... 2,713.08ms DONE
+  2022-10-08 20:33:04 App\Mail\SendCakesToInterestedMail ......... 5.54ms FAIL
+  2022-10-08 20:33:05 App\Mail\SendCakesToInterestedMail ..... 2,578.33ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:34:02 App\Mail\SendCakesToInterestedMail  2022-10-08 20:34:04 App\Mail\SendCakesToInterestedMail ......... 4.20ms FAIL
+ ..... 2,519.18ms DONE
+  2022-10-08 20:35:04 App\Mail\SendCakesToInterestedMail ......... 4.62ms FAIL
+  2022-10-08 20:35:04 App\Mail\SendCakesToInterestedMail ..... 2,563.31ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:36:02 App\Mail\SendCakesToInterestedMail  2022-10-08 20:36:04 App\Mail\SendCakesToInterestedMail ......... 4.24ms FAIL
+ ..... 2,691.28ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:37:02 App\Mail\SendCakesToInterestedMail  2022-10-08 20:37:05 App\Mail\SendCakesToInterestedMail ......... 4.94ms FAIL
+ ..... 2,696.27ms DONE
+  2022-10-08 20:38:02 App\Mail\SendCakesToInterestedMail ......... 5.35ms FAIL
+  2022-10-08 20:38:02 App\Mail\SendCakesToInterestedMail ..... 2,645.24ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:39:02 App\Mail\SendCakesToInterestedMail  2022-10-08 20:39:04 App\Mail\SendCakesToInterestedMail ......... 5.11ms FAIL
+ ..... 2,710.86ms DONE
+  2022-10-08 20:40:02 App\Mail\SendCakesToInterestedMail ......... 5.67ms FAIL
+  2022-10-08 20:40:02 App\Mail\SendCakesToInterestedMail ..... 2,438.65ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:41:02 App\Mail\SendCakesToInterestedMail  2022-10-08 20:41:04 App\Mail\SendCakesToInterestedMail ......... 4.93ms FAIL
+ ..... 2,430.13ms DONE
+  2022-10-08 20:42:02 App\Mail\SendCakesToInterestedMail ......... 5.34ms FAIL
+  2022-10-08 20:42:02 App\Mail\SendCakesToInterestedMail ..... 2,696.76ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:43:03 App\Mail\SendCakesToInterestedMail  2022-10-08 20:43:05 App\Mail\SendCakesToInterestedMail ......... 4.59ms FAIL
+ ..... 2,444.64ms DONE
+  2022-10-08 20:44:02 App\Mail\SendCakesToInterestedMail ......... 4.79ms FAIL
+  2022-10-08 20:44:02 App\Mail\SendCakesToInterestedMail ..... 2,494.99ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:45:03 App\Mail\SendCakesToInterestedMail  2022-10-08 20:45:05 App\Mail\SendCakesToInterestedMail ......... 3.59ms FAIL
+ ..... 2,567.16ms DONE
+  2022-10-08 20:46:02 App\Mail\SendCakesToInterestedMail ......... 4.15ms FAIL
+  2022-10-08 20:46:02 App\Mail\SendCakesToInterestedMail ..... 2,450.95ms DONE
+  2022-10-08 20:47:02 App\Mail\SendCakesToInterestedMail ......... 3.72ms FAIL
+  2022-10-08 20:47:02 App\Mail\SendCakesToInterestedMail ..... 2,551.12ms DONE
+  2022-10-08 20:48:01 App\Mail\SendCakesToInterestedMail ........ 11.07ms FAIL
+  2022-10-08 20:48:01 App\Mail\SendCakesToInterestedMail ..... 2,491.71ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:49:03 App\Mail\SendCakesToInterestedMail  2022-10-08 20:49:04 App\Mail\SendCakesToInterestedMail ......... 3.04ms FAIL
+ ..... 2,521.74ms DONE
+  2022-10-08 20:50:02 App\Mail\SendCakesToInterestedMail ......... 4.40ms FAIL
+  2022-10-08 20:50:02 App\Mail\SendCakesToInterestedMail ..... 2,644.81ms DONE
+  2022-10-08 20:51:02 App\Mail\SendCakesToInterestedMail ......... 3.81ms FAIL
+  2022-10-08 20:51:02 App\Mail\SendCakesToInterestedMail ..... 2,710.51ms DONE
+  2022-10-08 20:52:02 App\Mail\SendCakesToInterestedMail ......... 4.77ms FAIL
+  2022-10-08 20:52:02 App\Mail\SendCakesToInterestedMail ..... 2,576.84ms DONE
+  2022-10-08 20:53:01 App\Mail\SendCakesToInterestedMail ......... 4.95ms FAIL
+  2022-10-08 20:53:01 App\Mail\SendCakesToInterestedMail ..... 2,612.06ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:54:03 App\Mail\SendCakesToInterestedMail  2022-10-08 20:54:04 App\Mail\SendCakesToInterestedMail ......... 4.39ms FAIL
+ ..... 2,577.63ms DONE
+  2022-10-08 20:55:03 App\Mail\SendCakesToInterestedMail ......... 5.52ms FAIL
+  2022-10-08 20:55:03 App\Mail\SendCakesToInterestedMail ..... 2,584.74ms DONE
+  2022-10-08 20:56:02 App\Mail\SendCakesToInterestedMail ......... 5.03ms FAIL
+  2022-10-08 20:56:02 App\Mail\SendCakesToInterestedMail ..... 2,534.00ms DONE
+  2022-10-08 20:57:02 App\Mail\SendCakesToInterestedMail ......... 4.71ms FAIL
+  2022-10-08 20:57:02 App\Mail\SendCakesToInterestedMail ..... 2,322.10ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 20:58:04 App\Mail\SendCakesToInterestedMail  2022-10-08 20:58:04 App\Mail\SendCakesToInterestedMail ......... 4.14ms FAIL
+ ..... 2,570.27ms DONE
+  2022-10-08 20:59:03 App\Mail\SendCakesToInterestedMail ......... 5.23ms FAIL
+  2022-10-08 20:59:03 App\Mail\SendCakesToInterestedMail ..... 2,381.79ms DONE
+  2022-10-08 21:00:03 App\Mail\SendCakesToInterestedMail ......... 4.39ms FAIL
+  2022-10-08 21:00:03 App\Mail\SendCakesToInterestedMail ..... 2,556.65ms DONE
+  2022-10-08 21:01:02 App\Mail\SendCakesToInterestedMail ......... 4.62ms FAIL
+  2022-10-08 21:01:02 App\Mail\SendCakesToInterestedMail ..... 2,483.11ms DONE
+  2022-10-08 21:02:02 App\Mail\SendCakesToInterestedMail ......... 4.80ms FAIL
+  2022-10-08 21:02:02 App\Mail\SendCakesToInterestedMail ..... 2,609.78ms DONE
+  2022-10-08 21:03:04 App\Mail\SendCakesToInterestedMail ......... 4.31ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:03:04 App\Mail\SendCakesToInterestedMail ..... 2,401.77ms DONE
+  2022-10-08 21:04:03 App\Mail\SendCakesToInterestedMail ......... 6.55ms FAIL
+  2022-10-08 21:04:03 App\Mail\SendCakesToInterestedMail ..... 2,357.02ms DONE
+  2022-10-08 21:05:03 App\Mail\SendCakesToInterestedMail ......... 4.55ms FAIL
+  2022-10-08 21:05:03 App\Mail\SendCakesToInterestedMail ..... 2,602.65ms DONE
+  2022-10-08 21:06:02 App\Mail\SendCakesToInterestedMail ......... 5.17ms FAIL
+  2022-10-08 21:06:02 App\Mail\SendCakesToInterestedMail ..... 2,690.77ms DONE
+  2022-10-08 21:07:02 App\Mail\SendCakesToInterestedMail ......... 4.61ms FAIL
+  2022-10-08 21:07:02 App\Mail\SendCakesToInterestedMail ..... 2,692.14ms DONE
+  2022-10-08 21:08:02 App\Mail\SendCakesToInterestedMail ......... 4.41ms FAIL
+  2022-10-08 21:08:02 App\Mail\SendCakesToInterestedMail ..... 2,656.48ms DONE
+  2022-10-08 21:09:01 App\Mail\SendCakesToInterestedMail ......... 5.18ms FAIL
+  2022-10-08 21:09:02 App\Mail\SendCakesToInterestedMail ..... 2,587.00ms DONE
+  2022-10-08 21:10:04 App\Mail\SendCakesToInterestedMail ......... 5.93ms FAIL
+  2022-10-08 21:10:04 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+ ..... 2,649.76ms DONE
+  2022-10-08 21:11:01 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:11:01 App\Mail\SendCakesToInterestedMail ..... 2,567.49ms DONE
+ ..... 2,630.81ms DONE
+  2022-10-08 21:12:04 App\Mail\SendCakesToInterestedMail ......... 5.02ms FAIL
+  2022-10-08 21:12:04 App\Mail\SendCakesToInterestedMail ..... 2,612.46ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:13:02 App\Mail\SendCakesToInterestedMail  2022-10-08 21:13:04 App\Mail\SendCakesToInterestedMail ......... 4.93ms FAIL
+ ..... 2,554.19ms DONE
+  2022-10-08 21:14:04 App\Mail\SendCakesToInterestedMail ......... 5.93ms FAIL
+  2022-10-08 21:14:04 App\Mail\SendCakesToInterestedMail ..... 2,866.50ms DONE
+  2022-10-08 21:15:01 App\Mail\SendCakesToInterestedMail ......... 5.57ms FAIL
+  2022-10-08 21:15:01 App\Mail\SendCakesToInterestedMail ..... 2,648.34ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:16:02 App\Mail\SendCakesToInterestedMail  2022-10-08 21:16:04 App\Mail\SendCakesToInterestedMail ......... 5.07ms FAIL
+ ..... 2,622.82ms DONE
+  2022-10-08 21:17:01 App\Mail\SendCakesToInterestedMail ......... 4.98ms FAIL
+  2022-10-08 21:17:01 App\Mail\SendCakesToInterestedMail ..... 2,455.51ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:18:02 App\Mail\SendCakesToInterestedMail  2022-10-08 21:18:04 App\Mail\SendCakesToInterestedMail ......... 5.51ms FAIL
+ ..... 2,642.55ms DONE
+  2022-10-08 21:19:02 App\Mail\SendCakesToInterestedMail ......... 5.32ms FAIL
+  2022-10-08 21:19:02 App\Mail\SendCakesToInterestedMail ..... 2,509.06ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:20:02 App\Mail\SendCakesToInterestedMail  2022-10-08 21:20:04 App\Mail\SendCakesToInterestedMail ......... 4.84ms FAIL
+ ..... 2,612.03ms DONE
+  2022-10-08 21:21:02 App\Mail\SendCakesToInterestedMail ......... 5.30ms FAIL
+  2022-10-08 21:21:02 App\Mail\SendCakesToInterestedMail ..... 2,503.52ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:22:02 App\Mail\SendCakesToInterestedMail  2022-10-08 21:22:04 App\Mail\SendCakesToInterestedMail ........ 12.05ms FAIL
+ ..... 2,746.52ms DONE
+  2022-10-08 21:23:02 App\Mail\SendCakesToInterestedMail ......... 3.80ms FAIL
+  2022-10-08 21:23:02 App\Mail\SendCakesToInterestedMail ..... 2,670.72ms DONE
+  2022-10-08 21:24:02 App\Mail\SendCakesToInterestedMail ......... 3.51ms FAIL
+  2022-10-08 21:24:02 App\Mail\SendCakesToInterestedMail ..... 2,606.71ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:25:02 App\Mail\SendCakesToInterestedMail  2022-10-08 21:25:04 App\Mail\SendCakesToInterestedMail ......... 4.17ms FAIL
+ ..... 2,517.35ms DONE
+  2022-10-08 21:26:02 App\Mail\SendCakesToInterestedMail ......... 5.31ms FAIL
+  2022-10-08 21:26:02 App\Mail\SendCakesToInterestedMail ..... 2,466.15ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:27:02 App\Mail\SendCakesToInterestedMail  2022-10-08 21:27:04 App\Mail\SendCakesToInterestedMail ......... 5.19ms FAIL
+ ..... 2,557.63ms DONE
+  2022-10-08 21:28:02 App\Mail\SendCakesToInterestedMail ......... 5.63ms FAIL
+  2022-10-08 21:28:02 App\Mail\SendCakesToInterestedMail ..... 2,484.89ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:29:03 App\Mail\SendCakesToInterestedMail  2022-10-08 21:29:05 App\Mail\SendCakesToInterestedMail ......... 4.75ms FAIL
+ ..... 2,538.13ms DONE
+  2022-10-08 21:30:02 App\Mail\SendCakesToInterestedMail ......... 6.47ms FAIL
+  2022-10-08 21:30:02 App\Mail\SendCakesToInterestedMail ..... 2,709.95ms DONE
+  2022-10-08 21:31:02 App\Mail\SendCakesToInterestedMail ......... 4.87ms FAIL
+  2022-10-08 21:31:02 App\Mail\SendCakesToInterestedMail ..... 2,557.11ms DONE
+  2022-10-08 21:32:02 App\Mail\SendCakesToInterestedMail ......... 5.46ms FAIL
+  2022-10-08 21:32:02 App\Mail\SendCakesToInterestedMail ..... 2,510.44ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:33:03 App\Mail\SendCakesToInterestedMail  2022-10-08 21:33:04 App\Mail\SendCakesToInterestedMail ......... 4.57ms FAIL
+ ..... 2,615.20ms DONE
+  2022-10-08 21:34:03 App\Mail\SendCakesToInterestedMail ......... 5.68ms FAIL
+  2022-10-08 21:34:03 App\Mail\SendCakesToInterestedMail ..... 2,505.06ms DONE
+  2022-10-08 21:35:02 App\Mail\SendCakesToInterestedMail ......... 5.87ms FAIL
+  2022-10-08 21:35:02 App\Mail\SendCakesToInterestedMail ..... 2,367.75ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:36:03 App\Mail\SendCakesToInterestedMail  2022-10-08 21:36:05 App\Mail\SendCakesToInterestedMail ......... 4.60ms FAIL
+ ..... 2,439.08ms DONE
+  2022-10-08 21:37:03 App\Mail\SendCakesToInterestedMail ......... 4.32ms FAIL
+  2022-10-08 21:37:03 App\Mail\SendCakesToInterestedMail ..... 2,322.02ms DONE
+  2022-10-08 21:38:02 App\Mail\SendCakesToInterestedMail ......... 5.24ms FAIL
+  2022-10-08 21:38:02 App\Mail\SendCakesToInterestedMail ..... 2,372.74ms DONE
+  2022-10-08 21:39:01 App\Mail\SendCakesToInterestedMail ......... 4.56ms FAIL
+  2022-10-08 21:39:01 App\Mail\SendCakesToInterestedMail ..... 2,346.72ms DONE
+  2022-10-08 21:40:04 App\Mail\SendCakesToInterestedMail ......... 5.32ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:40:03 App\Mail\SendCakesToInterestedMail ..... 2,694.22ms DONE
+  2022-10-08 21:41:03 App\Mail\SendCakesToInterestedMail ......... 5.65ms FAIL
+  2022-10-08 21:41:03 App\Mail\SendCakesToInterestedMail ..... 2,470.34ms DONE
+  2022-10-08 21:42:03 App\Mail\SendCakesToInterestedMail ......... 4.93ms FAIL
+  2022-10-08 21:42:03 App\Mail\SendCakesToInterestedMail ..... 2,666.41ms DONE
+  2022-10-08 21:43:02 App\Mail\SendCakesToInterestedMail ......... 4.66ms FAIL
+  2022-10-08 21:43:02 App\Mail\SendCakesToInterestedMail ..... 2,511.58ms DONE
+  2022-10-08 21:44:02 App\Mail\SendCakesToInterestedMail ......... 4.54ms FAIL
+  2022-10-08 21:44:02 App\Mail\SendCakesToInterestedMail ..... 2,336.40ms DONE
+  2022-10-08 21:45:01 App\Mail\SendCakesToInterestedMail ......... 4.76ms FAIL
+  2022-10-08 21:45:01 App\Mail\SendCakesToInterestedMail ..... 2,560.84ms DONE
+  2022-10-08 21:46:04 App\Mail\SendCakesToInterestedMail ......... 4.34ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:46:04 App\Mail\SendCakesToInterestedMail ..... 2,639.03ms DONE
+  2022-10-08 21:47:03 App\Mail\SendCakesToInterestedMail ......... 5.93ms FAIL
+  2022-10-08 21:47:03 App\Mail\SendCakesToInterestedMail ..... 2,558.95ms DONE
+  2022-10-08 21:48:03 App\Mail\SendCakesToInterestedMail ......... 3.82ms FAIL
+  2022-10-08 21:48:03 App\Mail\SendCakesToInterestedMail ..... 2,513.49ms DONE
+  2022-10-08 21:49:03 App\Mail\SendCakesToInterestedMail ......... 3.81ms FAIL
+  2022-10-08 21:49:03 App\Mail\SendCakesToInterestedMail ..... 2,644.45ms DONE
+  2022-10-08 21:50:02 App\Mail\SendCakesToInterestedMail ......... 3.97ms FAIL
+  2022-10-08 21:50:02 App\Mail\SendCakesToInterestedMail ..... 2,443.08ms DONE
+  2022-10-08 21:51:05 App\Mail\SendCakesToInterestedMail ......... 5.43ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:51:04 App\Mail\SendCakesToInterestedMail ..... 2,563.00ms DONE
+  2022-10-08 21:52:04 App\Mail\SendCakesToInterestedMail ......... 5.89ms FAIL
+  2022-10-08 21:52:04 App\Mail\SendCakesToInterestedMail ..... 2,569.36ms DONE
+  2022-10-08 21:53:03 App\Mail\SendCakesToInterestedMail ......... 4.17ms FAIL
+  2022-10-08 21:53:03 App\Mail\SendCakesToInterestedMail ..... 2,439.46ms DONE
+  2022-10-08 21:54:03 App\Mail\SendCakesToInterestedMail ......... 4.30ms FAIL
+  2022-10-08 21:54:03 App\Mail\SendCakesToInterestedMail ..... 2,465.06ms DONE
+  2022-10-08 21:55:02 App\Mail\SendCakesToInterestedMail ......... 4.97ms FAIL
+  2022-10-08 21:55:02 App\Mail\SendCakesToInterestedMail ..... 2,488.78ms DONE
+  2022-10-08 21:56:02 App\Mail\SendCakesToInterestedMail ......... 5.21ms FAIL
+  2022-10-08 21:56:02 App\Mail\SendCakesToInterestedMail ..... 2,494.68ms DONE
+  2022-10-08 21:57:04 App\Mail\SendCakesToInterestedMail ......... 5.88ms FAIL
+  2022-10-08 21:57:04 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+ ..... 2,403.28ms DONE
+  2022-10-08 21:58:02 App\Mail\SendCakesToInterestedMail ..... 2,552.15ms DONE
+  2022-10-08 21:58:04 App\Mail\SendCakesToInterestedMail ....... 796.60ms DONE
+  2022-10-08 21:59:05 App\Mail\SendCakesToInterestedMail ......... 5.31ms FAIL
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 21:59:05 App\Mail\SendCakesToInterestedMail ..... 2,442.38ms DONE
+  2022-10-08 22:00:04 App\Mail\SendCakesToInterestedMail ......... 5.72ms FAIL
+  2022-10-08 22:00:04 App\Mail\SendCakesToInterestedMail ..... 2,589.26ms DONE
+  2022-10-08 22:01:04 App\Mail\SendCakesToInterestedMail ......... 5.19ms FAIL
+  2022-10-08 22:01:04 App\Mail\SendCakesToInterestedMail ..... 2,543.55ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 22:02:02 App\Mail\SendCakesToInterestedMail  2022-10-08 22:02:03 App\Mail\SendCakesToInterestedMail ......... 4.86ms FAIL
+ ..... 2,635.19ms DONE
+  2022-10-08 22:03:01 App\Mail\SendCakesToInterestedMail ......... 5.23ms FAIL
+  2022-10-08 22:03:02 App\Mail\SendCakesToInterestedMail ..... 2,542.21ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 22:04:02 App\Mail\SendCakesToInterestedMail  2022-10-08 22:04:04 App\Mail\SendCakesToInterestedMail ......... 4.68ms FAIL
+ ..... 2,597.23ms DONE
+  2022-10-08 22:05:02 App\Mail\SendCakesToInterestedMail ......... 5.60ms FAIL
+  2022-10-08 22:05:02 App\Mail\SendCakesToInterestedMail ..... 2,453.78ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 22:06:02 App\Mail\SendCakesToInterestedMail  2022-10-08 22:06:04 App\Mail\SendCakesToInterestedMail ......... 4.87ms FAIL
+ ..... 2,800.99ms DONE
+  2022-10-08 22:07:02 App\Mail\SendCakesToInterestedMail ......... 6.40ms FAIL
+  2022-10-08 22:07:02 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+ ..... 2,357.28ms DONE
+  2022-10-08 22:08:02 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 22:08:02 App\Mail\SendCakesToInterestedMail ..... 2,596.43ms DONE
+ ..... 2,552.64ms DONE
+  2022-10-08 22:09:02 App\Mail\SendCakesToInterestedMail ......... 5.29ms FAIL
+  2022-10-08 22:09:02 App\Mail\SendCakesToInterestedMail ..... 2,497.17ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 22:10:02 App\Mail\SendCakesToInterestedMail  2022-10-08 22:10:04 App\Mail\SendCakesToInterestedMail ......... 4.06ms FAIL
+ ..... 2,760.52ms DONE
+  2022-10-08 22:11:02 App\Mail\SendCakesToInterestedMail ......... 5.75ms FAIL
+  2022-10-08 22:11:02 App\Mail\SendCakesToInterestedMail ..... 2,498.21ms DONE
+  2022-10-08 22:12:02 App\Mail\SendCakesToInterestedMail ......... 3.26ms FAIL
+  2022-10-08 22:12:02 App\Mail\SendCakesToInterestedMail ..... 2,455.76ms DONE
+  2022-10-08 22:13:01 App\Mail\SendCakesToInterestedMail ......... 3.97ms FAIL
+  2022-10-08 22:13:01 App\Mail\SendCakesToInterestedMail ..... 2,683.94ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 22:14:03 App\Mail\SendCakesToInterestedMail  2022-10-08 22:14:04 App\Mail\SendCakesToInterestedMail ........ 12.25ms FAIL
+ ..... 6,557.47ms FAIL
+  2022-10-08 22:15:03 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 22:15:03 App\Mail\SendCakesToInterestedMail ..... 6,480.16ms FAIL
+ ..... 6,261.69ms FAIL
+  2022-10-08 22:16:03 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 22:16:03 App\Mail\SendCakesToInterestedMail ..... 6,571.81ms FAIL
+ ..... 6,553.19ms FAIL
+  2022-10-08 22:17:04 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 22:17:03 App\Mail\SendCakesToInterestedMail ..... 6,706.33ms FAIL
+ ..... 6,370.28ms FAIL
+  2022-10-08 22:18:04 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 22:18:03 App\Mail\SendCakesToInterestedMail ..... 6,590.85ms FAIL
+ ..... 6,464.19ms FAIL
+  2022-10-08 22:19:04 App\Mail\SendCakesToInterestedMail
+   INFO  Processing jobs from the [default] queue.  
+
+  2022-10-08 22:19:03 App\Mail\SendCakesToInterestedMail ..... 6,387.00ms FAIL
+ ..... 6,350.11ms FAIL
